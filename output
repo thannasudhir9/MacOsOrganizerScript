@@ -1,0 +1,68 @@
+chmod +x organizeFilesInMacOs.sh 
+./organizeFilesInMacOs.sh       
+
+Organizing Downloads folder...
+
+Organization complete! Check your Downloads folder for the new organized structure.
+
+Created folders:
+- .
+- ..
+- .tmp.drivedownload
+- .tmp.driveupload
+- addressValidation
+- Coursera_files
+- 2024
+- APDevFundamentals_studentFiles_SP_23nov2022
+- CheatSheets
+- chrome-mac-arm64
+- chromedriver-mac-arm64
+- 2
+- 2023-01-11
+- CommerceRLMOrders-master
+- Confluence-pdf-main
+- confluenceDumpWithPython-main
+- copado-salesforce-main
+- dataloader_mac
+- dataloader_v60.0.0
+- DEX460_APDevFundamentals_studentFiles_01feb2023
+- entry-level-resume-sample-template-free-download
+- ExampleCodesofSessions-master
+- FannyWidget-v2.3.0
+- gipmisalesforce
+- Human-Resources-Resume-Example-Free-Download
+- iloveimg-resized
+- ilovepdf_converted
+- Images
+- iphoneApps
+- JSON2Apex
+- (1)
+- (2)
+- (3)
+- 2
+- log
+- lwc
+- Reports
+- NEW_AISPECIALIST
+- Items
+- OmniStudio-Recipes-main
+- open-source
+- Other
+- PanGPLinux-5.2.3-c10
+- Payslips
+- Docs
+- pmd-bin-7.0.0
+- Postman.app
+- Cloud
+- Material
+- (6.0)
+- Materials
+- salesforce-custom-pipeline-main
+- salesforce-godigital-system-main
+- sfdcCommander-0.5-Portable
+- Sourcetree.app
+- Sudhir_Cigna_Intro
+- Meetings
+- telc_deutsch_a1
+- unpackaged
+- Docs
