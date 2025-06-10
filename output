@@ -1,6 +1,8 @@
+Commands to run the script:
 chmod +x organizeFilesInMacOs.sh 
 ./organizeFilesInMacOs.sh       
 
+Output of the script:
 Organizing Downloads folder...
 
 Organization complete! Check your Downloads folder for the new organized structure.
