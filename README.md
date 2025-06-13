@@ -28,5 +28,9 @@ A bash script that automatically organizes files in your macOS Downloads folder 
 chmod +x organizeFilesInMacOsV3.sh
 ```
 
-Commands to Run in Windows to Organize files in Downloads Folder
-python organize_downloads.py
+
+## Usage For Windows
+Command to Run in Windows to Organize files in Downloads Folder
+```bash
+python organize_downloadsv2.py
+```
