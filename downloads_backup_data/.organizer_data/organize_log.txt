@@ -1,0 +1,265 @@
+2026-04-01 13:17:20,253 - [/Users/sthanna/Downloads] Moved 191bdfea-05f9-4cb8-addc-0f9672091367.pdf to Documents
+2026-04-01 13:17:20,280 - [/Users/sthanna/Downloads] Moved Landsec Case Study - Data Driven Attrition Prevention.pptx to Documents
+2026-04-01 13:17:20,558 - [/Users/sthanna/Downloads] Moved Welcome FY27 .mp4 to Videos
+2026-04-01 13:17:20,572 - [/Users/sthanna/Downloads] Moved Rubric and Pitch Deck_ FY26 H2 Corporate Message Certification.pdf to Documents
+2026-04-01 13:17:20,577 - [/Users/sthanna/Downloads] Moved invoice - amazon 2.pdf to Documents
+2026-04-01 13:17:20,578 - [/Users/sthanna/Downloads] Moved View Job Posting Details - Workday.pdf to Documents
+2026-04-01 13:17:20,580 - [/Users/sthanna/Downloads] Moved MIAW Customer Deck - Yogesh.docx to Documents
+2026-04-01 13:17:20,581 - [/Users/sthanna/Downloads] Moved RX - Budget Control.xlsx to Documents
+2026-04-01 13:17:20,583 - [/Users/sthanna/Downloads] Moved PMI Score Report.pdf to Documents
+2026-04-01 13:17:20,584 - [/Users/sthanna/Downloads] Moved Certificate_6327444_02132026.pdf to Documents
+2026-04-01 13:17:20,585 - [/Users/sthanna/Downloads] Moved XtraFit 2026-03-01.pdf to Documents
+2026-04-01 13:17:20,587 - [/Users/sthanna/Downloads] Moved Sudhir kumar thanna - PMP Course Completion Certificate  (1).pdf to Documents
+2026-04-01 13:17:20,590 - [/Users/sthanna/Downloads] Moved adharTSU1.jpeg.jpeg to Images
+2026-04-01 13:17:20,593 - [/Users/sthanna/Downloads] Moved 260 Service Cloud_ Tier 1 - Agentforce Contact Center Voice- DRD.docx to Documents
+2026-04-01 13:17:20,792 - [/Users/sthanna/Downloads] Moved Renee Section.mp4 to Videos
+2026-04-01 13:17:20,794 - [/Users/sthanna/Downloads] Moved invoice - amazon 3.pdf to Documents
+2026-04-01 13:17:20,795 - [/Users/sthanna/Downloads] Moved GMT20260310-160204_RecordingnewChat.txt to Documents
+2026-04-01 13:17:20,797 - [/Users/sthanna/Downloads] Moved BI-2321YKJC.pdf to Documents
+2026-04-01 13:17:20,799 - [/Users/sthanna/Downloads] Moved The-Complete-Guide-to-Building-Skill-for-Claude.pdf to Documents
+2026-04-01 13:17:20,806 - [/Users/sthanna/Downloads] Moved Apple Support Case 102752945432 8_12_2025_11_21am.pdf to Documents
+2026-04-01 13:17:20,809 - [/Users/sthanna/Downloads] Moved Sandbox Cancellation Quote Approval Needed.eml to Others
+2026-04-01 13:17:20,819 - [/Users/sthanna/Downloads] Moved Module 5 The Connected Contact Center.mp4 to Videos
+2026-04-01 13:17:20,823 - [/Users/sthanna/Downloads] Moved Instructor Profiles.pdf to Documents
+2026-04-01 13:17:20,824 - [/Users/sthanna/Downloads] Moved invoice - amazon 1.pdf to Documents
+2026-04-01 13:17:20,827 - [/Users/sthanna/Downloads] Moved Sampath_Kanaparthy_CV_2-2.pdf to Documents
+2026-04-01 13:17:20,829 - [/Users/sthanna/Downloads] Moved Informationsblatt Fahrschule Boost.pdf to Documents
+2026-04-01 13:17:20,889 - [/Users/sthanna/Downloads] Moved 2026-04 EMEA Specialist All Team Call.pptx to Documents
+2026-04-01 13:17:20,892 - [/Users/sthanna/Downloads] Moved DE36505400280281178400_EUR_Kontoauszug_August_2025_Kontostand_26_175_06_EUR_20250830_54dc6.pdf to Documents
+2026-04-01 13:17:20,895 - [/Users/sthanna/Downloads] Moved Comp Plan.pdf to Documents
+2026-04-01 13:17:20,897 - [/Users/sthanna/Downloads] Moved make a question with bier in german (1).pdf to Documents
+2026-04-01 13:17:20,899 - [/Users/sthanna/Downloads] Moved DE36505400280281178400_EUR_Kontoauszug_November_2025_Kontostand_26_119_80_EUR_20251129_9002d.pdf to Documents
+2026-04-01 13:17:20,901 - [/Users/sthanna/Downloads] Moved apex-07LUE00000GGWyz2AH.log to Others
+2026-04-01 13:17:20,925 - [/Users/sthanna/Downloads] Moved Video_Agentforce_Oviva.mp4 to Videos
+2026-04-01 13:17:20,927 - [/Users/sthanna/Downloads] Moved .DS_Store to Others
+2026-04-01 13:17:20,929 - [/Users/sthanna/Downloads] Moved Sudhir_CV_24Oct2025_DE.docx-1.pdf to Documents
+2026-04-01 13:17:20,932 - [/Users/sthanna/Downloads] Moved 101563_202507271019PM621.pdf to Documents
+2026-04-01 13:17:20,935 - [/Users/sthanna/Downloads] Moved Salesforce.com Mail - Course CSPO - Certified Product Owner Approval.pdf to Documents
+2026-04-01 13:17:20,937 - [/Users/sthanna/Downloads] Moved XtraFit 01.02.2026.pdf to Documents
+2026-04-01 13:17:20,939 - [/Users/sthanna/Downloads] Moved apex-07LUE00000HrmSy2AJ (1).log to Others
+2026-04-01 13:17:20,941 - [/Users/sthanna/Downloads] Moved Sudhir_CV_24Oct2025_DE.docx.pdf to Documents
+2026-04-01 13:17:20,944 - [/Users/sthanna/Downloads] Moved 1629986918081.jpeg to Images
+2026-04-01 13:17:20,948 - [/Users/sthanna/Downloads] Moved DE36505400280281178400_EUR_Kontoauszug_Dezember_2025_Kontostand_19_784_35_EUR_20260102_89142.pdf to Documents
+2026-04-01 13:17:20,954 - [/Users/sthanna/Downloads] Moved date 28_11_2025__tell the answers and explain in e.pdf to Documents
+2026-04-01 13:17:20,959 - [/Users/sthanna/Downloads] Moved EUBlueCard2026.pdf to Documents
+2026-04-01 13:17:20,961 - [/Users/sthanna/Downloads] Moved apex-07LUE00000GGX2J2AX.log to Others
+2026-04-01 13:17:20,966 - [/Users/sthanna/Downloads] Moved IDFC Bank Calculation.xlsx to Documents
+2026-04-01 13:17:20,974 - [/Users/sthanna/Downloads] Moved ScrumwithAICertified-SUDHIRKumarThanna-1151770.pdf to Documents
+2026-04-01 13:17:20,981 - [/Users/sthanna/Downloads] Moved max-life-star-ulip (1).pdf to Documents
+2026-04-01 13:17:21,022 - [/Users/sthanna/Downloads] Moved General Status Update [ongoing] (1).pptx to Documents
+2026-04-01 13:17:21,103 - [/Users/sthanna/Downloads] Moved GMT20260219-170147_Recording_3384x1540.mp4 to Videos
+2026-04-01 13:17:21,105 - [/Users/sthanna/Downloads] Moved SudhirKumarThanna-10032026.pdf to Documents
+2026-04-01 13:17:21,106 - [/Users/sthanna/Downloads] Moved Score Report-TOGAF PART 1.pdf to Documents
+2026-04-01 13:17:21,126 - [/Users/sthanna/Downloads] Moved General Status Update [ongoing] (3).pptx to Documents
+2026-04-01 13:17:21,131 - [/Users/sthanna/Downloads] Moved Simpliaxis-Invoice-Sudhir kumar thanna-qqH1tRADZrvuTQKF_pH9A5Y4dKY1WkcP.pdf to Documents
+2026-04-01 13:17:21,132 - [/Users/sthanna/Downloads] Moved export-orders.xlsx to Documents
+2026-04-01 13:17:21,136 - [/Users/sthanna/Downloads] Moved curriculum-pmp.pdf to Documents
+2026-04-01 13:17:21,139 - [/Users/sthanna/Downloads] Moved Amazon.de Basket 2.pdf to Documents
+2026-04-01 13:17:21,140 - [/Users/sthanna/Downloads] Moved AccountStatement_01-DEC-2025_to_25-FEB-2026.xlsx to Documents
+2026-04-01 13:17:21,146 - [/Users/sthanna/Downloads] Moved GenAI_Brochure (1) (2).pdf to Documents
+2026-04-01 13:17:21,149 - [/Users/sthanna/Downloads] Moved SU-The Sales Elevation - HL Architecture-051225-081342.pdf to Documents
+2026-04-01 13:17:21,152 - [/Users/sthanna/Downloads] Moved inspect (2).html to Others
+2026-04-01 13:17:21,154 - [/Users/sthanna/Downloads] Moved Mitgliedsbeitrag 2025-10-01 OCT.pdf to Documents
+2026-04-01 13:17:21,156 - [/Users/sthanna/Downloads] Moved inspect.html to Others
+2026-04-01 13:17:21,158 - [/Users/sthanna/Downloads] Moved df25-session-demo-main.zip to Archives
+2026-04-01 13:17:21,198 - [/Users/sthanna/Downloads] Moved Migration Deck_ How to Make the Move from CPQ to Revenue Cloud.pptx to Documents
+2026-04-01 13:17:21,203 - [/Users/sthanna/Downloads] Moved BVC Full System Design.drawio to Others
+2026-04-01 13:17:21,205 - [/Users/sthanna/Downloads] Moved illustration (16).pdf to Documents
+2026-04-01 13:17:21,206 - [/Users/sthanna/Downloads] Moved .localized to Others
+2026-04-01 13:17:21,266 - [/Users/sthanna/Downloads] Moved GMT20260310-160204_Recording_gallery_3840x2214.mp4 to Videos
+2026-04-01 13:17:21,327 - [/Users/sthanna/Downloads] Moved Module 2 - The Plumbing - Network, Security, & SBCs.mp4 to Videos
+2026-04-01 13:17:21,330 - [/Users/sthanna/Downloads] Moved WhatsApp Image 2025-12-18 at 3.21.35 PM.jpeg to Images
+2026-04-01 13:17:21,333 - [/Users/sthanna/Downloads] Moved 435ba31a-7ed2-4d0d-9c82-1471b6cfd3d9.pdf to Documents
+2026-04-01 13:17:21,339 - [/Users/sthanna/Downloads] Moved Setting up your new Mac.pdf to Documents
+2026-04-01 13:17:21,420 - [/Users/sthanna/Downloads] Moved 🇨🇭Swiss Customer References & AF Use Cases.pptx to Documents
+2026-04-01 13:17:21,661 - [/Users/sthanna/Downloads] Moved FY26 FINS Customers Stories _ Story Slides.pptx to Documents
+2026-04-01 13:17:21,666 - [/Users/sthanna/Downloads] Moved Sudhir Kumar Thanna Completion Certificate.png to Images
+2026-04-01 13:17:21,673 - [/Users/sthanna/Downloads] Moved [Srini] FDE Momentum Portfolio Review 11.3.pdf to Documents
+2026-04-01 13:17:21,676 - [/Users/sthanna/Downloads] Moved P_SLP_007389_20260201_20260228_91_V2_0000_00000_FILE_00830000_Payslip-202602-11540-100P.pdf to Documents
+2026-04-01 13:17:21,771 - [/Users/sthanna/Downloads] Moved ChatGPT_Atlas.dmg to Others
+2026-04-01 13:17:21,781 - [/Users/sthanna/Downloads] Moved Kukatpally House Regd Document.pdf to Documents
+2026-04-01 13:17:21,783 - [/Users/sthanna/Downloads] Moved Post_read__Build_Your_Own_AI_Employee__Part_2_(Advanced_Workflow_Implementation).pdf to Documents
+2026-04-01 13:17:21,911 - [/Users/sthanna/Downloads] Moved Module 3 - Telephony in Salesforce.mp4 to Videos
+2026-04-01 13:17:21,915 - [/Users/sthanna/Downloads] Moved Illustration (18) (10).pdf to Documents
+2026-04-01 13:17:21,916 - [/Users/sthanna/Downloads] Moved Mitgliedsbeitrag 2025-12-01Xtrafit.pdf to Documents
+2026-04-01 13:17:21,964 - [/Users/sthanna/Downloads] Moved Consumption Plan - Step by Step AE Guide.pptx to Documents
+2026-04-01 13:17:21,968 - [/Users/sthanna/Downloads] Moved P_SLP_007389_20251001_20251031_91_V2_0000_00000_FILE_00830000_Payslip-202510-11540-100P.pdf to Documents
+2026-04-01 13:17:21,972 - [/Users/sthanna/Downloads] Moved Bank-Statement-Summary (1).pdf to Documents
+2026-04-01 13:17:21,990 - [/Users/sthanna/Downloads] Moved RCC - Certification (Shared)-20251006T130359Z-1-001.zip to Archives
+2026-04-01 13:17:21,992 - [/Users/sthanna/Downloads] Moved PMP Experience Application.pdf to Documents
+2026-04-01 13:17:21,995 - [/Users/sthanna/Downloads] Moved Bank-Statement-Summary.pdf to Documents
+2026-04-01 13:17:21,996 - [/Users/sthanna/Downloads] Moved Pruefstellen-RP.xlsx to Documents
+2026-04-01 13:17:21,998 - [/Users/sthanna/Downloads] Moved PMP Experience.pdf to Documents
+2026-04-01 13:17:22,000 - [/Users/sthanna/Downloads] Moved dhl-schadensanzeige-0715 - English.pdf to Documents
+2026-04-01 13:17:22,032 - [/Users/sthanna/Downloads] Moved General Status Update [ongoing] (2).pptx to Documents
+2026-04-01 13:17:22,041 - [/Users/sthanna/Downloads] Moved Revenue Cloud Deployment Guide (Pilot) (1).pdf to Documents
+2026-04-01 13:17:22,046 - [/Users/sthanna/Downloads] Moved SU-F&T Design - RC Quote Management Process-051225-082608.pdf to Documents
+2026-04-01 13:17:22,049 - [/Users/sthanna/Downloads] Moved Post_read__Job_Hunting_and_Job_Application_Using_AI_-_(Agentic_Process)_C6.pdf to Documents
+2026-04-01 13:17:22,052 - [/Users/sthanna/Downloads] Moved GMT20260310-160204_Recording.transcript.vtt to Others
+2026-04-01 13:17:22,398 - [/Users/sthanna/Downloads] Moved Fast Start - Key Strategic Objectives (AMER_APAC) (1).mp4 to Videos
+2026-04-01 13:17:22,404 - [/Users/sthanna/Downloads] Moved Salesforce AI Fluency Playbook.pdf to Documents
+2026-04-01 13:17:22,520 - [/Users/sthanna/Downloads] Moved GitHubDesktop-arm64.zip to Archives
+2026-04-01 13:17:22,521 - [/Users/sthanna/Downloads] Moved inspect (3).html to Others
+2026-04-01 13:17:22,525 - [/Users/sthanna/Downloads] Moved apex-07LUE00000HrmSy2AJ.log to Others
+2026-04-01 13:17:22,528 - [/Users/sthanna/Downloads] Moved Massage-15.11.2025.pdf to Documents
+2026-04-01 13:17:22,531 - [/Users/sthanna/Downloads] Moved Sudhir_Kumar_Thanna_2025-12-10_2115.pdf to Documents
+2026-04-01 13:17:22,533 - [/Users/sthanna/Downloads] Moved create 2 or 3 questions and answers using these wo.pdf to Documents
+2026-04-01 13:17:22,535 - [/Users/sthanna/Downloads] Moved inspect (1).html to Others
+2026-04-01 13:17:22,542 - [/Users/sthanna/Downloads] Moved ai-job-monitor-main.zip to Archives
+2026-04-01 13:17:22,549 - [/Users/sthanna/Downloads] Moved Landsec Case Study - Data Driven Attrition Prevention.pdf to Documents
+2026-04-01 13:17:22,553 - [/Users/sthanna/Downloads] Moved P_SLP_007389_20260301_20260331_91_V2_0000_00000_FILE_00830000_Payslip-202603-11540-100P.pdf to Documents
+2026-04-01 13:17:22,556 - [/Users/sthanna/Downloads] Moved system-prompts-and-models-of-ai-tools-main.zip to Archives
+2026-04-01 13:17:22,559 - [/Users/sthanna/Downloads] Moved SU-F&T Design - Order Management End-to-End-051225-082900.pdf to Documents
+2026-04-01 13:17:22,561 - [/Users/sthanna/Downloads] Moved adharTSU2.jpeg.jpeg.jpeg to Images
+2026-04-01 13:17:22,627 - [/Users/sthanna/Downloads] Moved Salesforce First Call Deck_ Corporate Presentation FY27 - Welcome to the Agentic Enterprise.pptx to Documents
+2026-04-01 13:17:22,629 - [/Users/sthanna/Downloads] Moved Job Hunting and Job Application Using AI - (Agentic Process) Notes.pdf to Documents
+2026-04-01 13:17:22,633 - [/Users/sthanna/Downloads] Moved Reference Form - Yemi.docx to Documents
+2026-04-01 13:17:22,635 - [/Users/sthanna/Downloads] Moved Gmail - You are now enrolled in Faster German A1 Course.pdf to Documents
+2026-04-01 13:17:22,638 - [/Users/sthanna/Downloads] Moved Gmail - Registration confirmation -A1 level German Course.pdf to Documents
+2026-04-01 13:17:22,640 - [/Users/sthanna/Downloads] Moved Thanna_Sudhir_Kumar_Certificate.pdf to Documents
+2026-04-01 13:17:22,643 - [/Users/sthanna/Downloads] Moved Fund Performance.pdf to Documents
+2026-04-01 13:17:22,645 - [/Users/sthanna/Downloads] Moved GMT20260310-160204_Recording.cc.vtt to Others
+2026-04-01 13:17:22,675 - [/Users/sthanna/Downloads] Moved Module 4 - Workforce Management.mp4 to Videos
+2026-04-01 13:17:22,676 - [/Users/sthanna/Downloads] Moved Gmail - Project Management Professional (PMP) Certification Training _.pdf to Documents
+2026-04-01 13:17:22,995 - [/Users/sthanna/Downloads] Moved Fast Start - Key Strategic Objectives (AMER_APAC).mp4 to Videos
+2026-04-01 13:17:22,997 - [/Users/sthanna/Downloads] Moved Sudhir New Passport 2022.pdf to Documents
+2026-04-01 13:17:23,004 - [/Users/sthanna/Downloads] Moved apex-07LQ100000BXamLMAT.log to Others
+2026-04-01 13:17:23,006 - [/Users/sthanna/Downloads] Moved BVC System Design 1.jpg to Images
+2026-04-01 13:17:23,008 - [/Users/sthanna/Downloads] Moved Sudhir payment receipt (1) (1).pdf to Documents
+2026-04-01 13:17:23,013 - [/Users/sthanna/Downloads] Moved MIAW Customer Deck.pdf to Documents
+2026-04-01 13:17:23,015 - [/Users/sthanna/Downloads] Moved P_SLP_007389_20251101_20251130_91_V2_0000_00000_FILE_00830000_Payslip-202511-11540-100P.pdf to Documents
+2026-04-01 13:17:23,017 - [/Users/sthanna/Downloads] Moved apex-07LUE00000ImSj32AF.log to Others
+2026-04-01 13:17:23,020 - [/Users/sthanna/Downloads] Moved Amazon.de Basket.pdf to Documents
+2026-04-01 13:17:23,041 - [/Users/sthanna/Downloads] Moved orgfarm-bc508345a5-dev-ed.develop.my.site.com_SFTradingSTK_s_.png to Images
+2026-04-01 13:17:23,047 - [/Users/sthanna/Downloads] Moved PH Dreamin' 2026 - Constraint Modeling Language (CML).pdf to Documents
+2026-04-01 13:17:23,061 - [/Users/sthanna/Downloads] Moved WhatsApp Image 2024-07-15 at 10.21.02 AM (1).jpeg to Images
+2026-04-01 13:17:23,485 - [/Users/sthanna/Downloads] Moved Docker.dmg to Others
+2026-04-01 13:17:23,513 - [/Users/sthanna/Downloads] Moved EMEA Consulting - Hack the V2MOM.pptx to Documents
+2026-04-01 13:17:23,516 - [/Users/sthanna/Downloads] Moved Simpliaxis-Invoice-Sudhir Kumar Thanna-qqH1tRADZrvuTQKF_pH9A5Y4dKYyW0cP (1).pdf to Documents
+2026-04-01 13:17:23,728 - [/Users/sthanna/Downloads] Moved FY26 Financial Services Cloud FCD - Service W_Features - Main Narrative.pptx to Documents
+2026-04-01 13:17:23,732 - [/Users/sthanna/Downloads] Moved 1763210649890.pdf to Documents
+2026-04-01 13:17:23,734 - [/Users/sthanna/Downloads] Moved Comp Plan (1).pdf to Documents
+2026-04-01 13:17:23,738 - [/Users/sthanna/Downloads] Moved orgfarm-bc508345a5-dev-ed.develop.my.site.com_SFTradingSTK_s_ (1).png to Images
+2026-04-01 13:17:23,741 - [/Users/sthanna/Downloads] Moved Job Hunting and Job Application Using AI - (Agentic Process) Notes.docx to Documents
+2026-04-01 13:17:23,743 - [/Users/sthanna/Downloads] Moved pan_car-min.PNG to Images
+2026-04-01 13:17:23,798 - [/Users/sthanna/Downloads] Moved Agentforce Vibes IDE - SAIL Enablement Session.pptx to Documents
+2026-04-01 13:17:23,840 - [/Users/sthanna/Downloads] Moved Module 1 - CCaaS Fundamentals.mp4 to Videos
+2026-04-01 13:17:23,844 - [/Users/sthanna/Downloads] Moved 113921_202508050856PM778.pdf to Documents
+2026-04-01 13:17:23,847 - [/Users/sthanna/Downloads] Moved Apple Support Case 102721179116 30_10_2025_11_20am.pdf to Documents
+2026-04-01 13:17:23,848 - [/Users/sthanna/Downloads] Moved BVC Design TDD.drawio to Others
+2026-04-01 13:17:23,853 - [/Users/sthanna/Downloads] Moved curriculum.pdf to Documents
+2026-04-01 13:17:23,856 - [/Users/sthanna/Downloads] Moved thepopebot-main.zip to Archives
+2026-04-01 13:17:23,858 - [/Users/sthanna/Downloads] Moved apex-07LUE00000HstaV2AR.log to Others
+2026-04-01 13:17:23,860 - [/Users/sthanna/Downloads] Moved adharTSU large.jpeg to Images
+2026-04-01 13:17:23,865 - [/Users/sthanna/Downloads] Moved Leveling Guides.xlsx to Documents
+2026-04-01 13:17:23,868 - [/Users/sthanna/Downloads] Moved P_SLP_007389_20251101_20251130_91_V2_0000_00000_FILE_00830000_Payslip-202511-11540-100P (1).pdf to Documents
+2026-04-01 13:17:23,869 - [/Users/sthanna/Downloads] Moved 258a816d-9a94-4c4b-a9ea-5874c1ac2329.pdf to Documents
+2026-04-01 13:17:23,870 - [/Users/sthanna/Downloads] Moved Simpliaxis-Invoice-Sudhir kumar thanna-qqH1tRADZrvuTQKF_pH9A5Y4dKY1WkcP (1).pdf to Documents
+2026-04-01 13:17:23,876 - [/Users/sthanna/Downloads] Moved AI_Generalist_Roadmap.pdf to Documents
+2026-04-01 13:17:23,879 - [/Users/sthanna/Downloads] Moved Methodology.pdf to Documents
+2026-04-01 13:17:23,884 - [/Users/sthanna/Downloads] Moved Massage - Feb 2026.pdf to Documents
+2026-04-01 13:17:23,886 - [/Users/sthanna/Downloads] Moved Pre_Read_Build_Your_Own_AI_Employee_Part_2_C6.pdf to Documents
+2026-04-01 13:17:23,889 - [/Users/sthanna/Downloads] Moved wd12.myworkday.com_salesforce_d_inst_1$9925_9925$140344.htmld.png to Images
+2026-04-01 13:17:23,904 - [/Users/sthanna/Downloads] Moved RC Cloud Consultant Merged PDF OCR.pdf to Documents
+2026-04-01 13:17:23,905 - [/Users/sthanna/Downloads] Moved WhatsApp Image 2024-07-15 at 10.21.02 AM.jpeg to Images
+2026-04-01 13:17:23,907 - [/Users/sthanna/Downloads] Moved Sudhir kumar thanna - PMP Course Completion Certificate .pdf to Documents
+2026-04-01 13:17:23,909 - [/Users/sthanna/Downloads] Moved trailblazer-social-picture.png to Images
+2026-04-01 13:17:23,911 - [/Users/sthanna/Downloads] Moved BVC System Design.drawio.pdf to Documents
+2026-04-01 13:17:23,913 - [/Users/sthanna/Downloads] Moved BVC - Strategic BCV Agent for CTO Scope Definition.pdf to Documents
+2026-04-01 13:17:23,933 - [/Users/sthanna/Downloads] Moved Zoom.pkg to Others
+2026-04-01 13:17:23,937 - [/Users/sthanna/Downloads] Moved wd12.myworkday.com_salesforce_d_inst_1$9925_9925$136147.htmld.png to Images
+2026-04-01 13:17:23,942 - [/Users/sthanna/Downloads] Moved Salesforce.com Mail - Pearson VUE Confirmation of Payment - RC Cloud.pdf to Documents
+2026-04-01 13:17:23,944 - [/Users/sthanna/Downloads] Moved Simpliaxis-Invoice-Sudhir Kumar Thanna-qqH1tRADZrvuTQKF_pH9A5Y4dKY1XkAH.pdf to Documents
+2026-04-01 13:17:23,947 - [/Users/sthanna/Downloads] Moved Sudhir_CV_21Feb2026_DE.docx (1).pdf to Documents
+2026-04-01 13:17:23,948 - [/Users/sthanna/Downloads] Moved DE36505400280281178400_EUR_Kontoauszug_Oktober_2025_Kontostand_22_789_78_EUR_20251101_79662.pdf to Documents
+2026-04-01 13:17:23,950 - [/Users/sthanna/Downloads] Moved -logs-1773670074370.json to Others
+2026-04-01 13:17:23,953 - [/Users/sthanna/Downloads] Moved Mastery_Builders_v3.2.pdf to Documents
+2026-04-01 13:17:23,956 - [/Users/sthanna/Downloads] Moved DE36505400280281178400_EUR_Kontoauszug_September_2025_Kontostand_24_189_72_EUR_20251001_1f288.pdf to Documents
+2026-04-01 13:17:23,958 - [/Users/sthanna/Downloads] Moved Gmail - The Knowledge Academy - Payment confirmation email.pdf to Documents
+2026-04-01 13:17:23,960 - [/Users/sthanna/Downloads] Moved TOGAF® Certification -Certificate-2.pdf to Documents
+2026-04-01 13:17:23,962 - [/Users/sthanna/Downloads] Moved Screenshot 2026-03-12 at 15.00.50.png to Images
+2026-04-01 13:17:23,969 - [/Users/sthanna/Downloads] Moved Sudhir Germany Visa 2.pdf to Documents
+2026-04-01 13:17:23,971 - [/Users/sthanna/Downloads] Moved sso.teachable.com_secure_278440_current_user_purchase_history_156358607.pdf to Documents
+2026-04-01 13:17:23,974 - [/Users/sthanna/Downloads] Moved List of complimentory courses 1 2.xlsx to Documents
+2026-04-01 13:17:23,976 - [/Users/sthanna/Downloads] Moved Massage - March 2026.pdf to Documents
+2026-04-01 13:17:23,984 - [/Users/sthanna/Downloads] Moved Cert22.pdf to Documents
+2026-04-01 13:17:23,987 - [/Users/sthanna/Downloads] Moved Mitgliedsbeitrag 2025-11-01 NOV.pdf to Documents
+2026-04-01 13:17:24,067 - [/Users/sthanna/Downloads] Moved GMT20260310-160204_Recording_3840x2214.mp4 to Videos
+2026-04-01 13:17:24,072 - [/Users/sthanna/Downloads] Moved rxglobal--sudhirk.sandbox.lightning.force.com_lightning_n_MappingViewer.png to Images
+2026-04-01 13:17:24,116 - [/Users/sthanna/Downloads] Moved General Status Update [ongoing].pptx to Documents
+2026-04-01 13:17:24,118 - [/Users/sthanna/Downloads] Moved Massage - Jan 2026.pdf to Documents
+2026-04-01 13:17:24,142 - [/Users/sthanna/Downloads] Moved GMT20260310-160204_Recording.m4a to Music
+2026-04-01 13:17:24,144 - [/Users/sthanna/Downloads] Moved DE36505400280281178400_EUR_Kontoauszug_Januar_2026_Kontostand_20_956_28_EUR_20260131_84ec4.pdf to Documents
+2026-04-01 13:17:24,146 - [/Users/sthanna/Downloads] Moved EUBlueCard2026 (1).pdf to Documents
+2026-04-01 13:17:24,148 - [/Users/sthanna/Downloads] Moved illustration (15).pdf to Documents
+2026-04-01 13:17:24,150 - [/Users/sthanna/Downloads] Moved apex-07LUE00000HsoSg2AJ.log to Others
+2026-04-01 13:17:24,157 - [/Users/sthanna/Downloads] Moved Application Form.pdf to Documents
+2026-04-01 13:17:24,160 - [/Users/sthanna/Downloads] Moved illustration (16) (1).pdf to Documents
+2026-04-01 13:17:24,163 - [/Users/sthanna/Downloads] Moved Sudhir payment receipt (1).pdf to Documents
+2026-04-01 13:17:24,174 - [/Users/sthanna/Downloads] Moved ProServ FY27 Central GTM org - as of Feb 1  2026.pptx to Documents
+2026-04-01 13:17:24,200 - [/Users/sthanna/Downloads] Moved Notes-main.zip to Archives
+2026-04-01 13:17:27,624 - [/Users/sthanna/Downloads] Moved OneDrive_2026-02-05.zip to Archives
+2026-04-01 13:17:27,627 - [/Users/sthanna/Downloads] Moved wd12.myworkday.com_salesforce_d_inst_1$9925_9925$136033.htmld.png to Images
+2026-04-01 13:17:27,629 - [/Users/sthanna/Downloads] Moved Revenue Cloud Deployment Guide (Pilot).pdf to Documents
+2026-04-01 13:17:27,631 - [/Users/sthanna/Downloads] Moved TOGAF® Certification -Certificate-1.pdf to Documents
+2026-04-01 13:17:27,632 - [/Users/sthanna/Downloads] Moved P_SLP_007389_20260101_20260131_91_V2_0000_00000_FILE_00830000_Payslip-202601-11540-100P.pdf to Documents
+2026-04-01 13:17:27,634 - [/Users/sthanna/Downloads] Moved Post_read__ATS_Friendly_Resume_Writing_+_Interview_Preparation_Using_AI_C6.pdf to Documents
+2026-04-01 13:17:27,636 - [/Users/sthanna/Downloads] Moved 1773045453598.pdf to Documents
+2026-04-01 13:17:27,637 - [/Users/sthanna/Downloads] Moved YB CC Revamp ELITE+ one pager A4.pdf to Documents
+2026-04-01 13:17:27,639 - [/Users/sthanna/Downloads] Moved deployment-deploy-1761033168830.log to Others
+2026-04-01 13:17:27,645 - [/Users/sthanna/Downloads] Moved EPGC-in-Product-Management-Brochure (9) (1).pdf to Documents
+2026-04-01 13:17:27,647 - [/Users/sthanna/Downloads] Moved BI-2483WDCX.pdf to Documents
+2026-04-01 13:17:27,653 - [/Users/sthanna/Downloads] Moved 1762274477456.pdf to Documents
+2026-04-01 13:17:27,654 - [/Users/sthanna/Downloads] Moved Simpliaxis-Invoice-Sudhir Kumar Thanna-qqH1tRADZrvuTQKF_pH9A5Y4dKYyW0cP.pdf to Documents
+2026-04-01 13:17:27,657 - [/Users/sthanna/Downloads] Moved FY27 V2MOM Working Document.docx to Documents
+2026-04-01 13:17:27,659 - [/Users/sthanna/Downloads] Moved Xtrafit - 01.01.2026.pdf to Documents
+2026-04-01 13:17:27,661 - [/Users/sthanna/Downloads] Moved Salesforce.com Mail - German A1 Course Approval.pdf to Documents
+2026-04-01 13:17:27,858 - [/Users/sthanna/Downloads] Moved Claude.dmg to Others
+2026-04-01 13:17:27,860 - [/Users/sthanna/Downloads] Moved TargobankAntrag.pdf to Documents
+2026-04-01 13:17:27,868 - [/Users/sthanna/Downloads] Moved AccountStatement_01-DEC-2025_to_18-FEB-2026-unlocked.pdf to Documents
+2026-04-01 13:17:27,870 - [/Users/sthanna/Downloads] Moved Massage-6.12.2025.pdf to Documents
+2026-04-01 13:17:27,873 - [/Users/sthanna/Downloads] Moved Heroku Vibes Internal FAQ.pdf to Documents
+2026-04-01 13:17:27,875 - [/Users/sthanna/Downloads] Moved A digital rental pos.png to Images
+2026-04-01 13:17:27,877 - [/Users/sthanna/Downloads] Moved Cert6945921_RevenueCloudConsultant_20251107.pdf to Documents
+2026-04-01 13:17:27,879 - [/Users/sthanna/Downloads] Moved Heroku Vibes-20251203T150715Z-1-001.zip to Archives
+2026-04-01 13:17:27,890 - [/Users/sthanna/Downloads] Moved Advanced Certification in Generative AI & Agentic AI.pdf to Documents
+2026-04-01 13:17:27,899 - [/Users/sthanna/Downloads] Moved Custom202420260205-29-nxyamq.pdf to Documents
+2026-04-01 13:17:28,034 - [/Users/sthanna/Downloads] Moved comet_latest.dmg to Others
+2026-04-01 13:17:28,163 - [/Users/sthanna/Downloads] Moved Antigravity.dmg to Others
+2026-04-01 13:17:28,165 - [/Users/sthanna/Downloads] Moved Application Report - 8725269.pdf to Documents
+2026-04-01 13:17:28,166 - [/Users/sthanna/Downloads] Moved Sudhir_CV_9June2025_DE.docx to Documents
+2026-04-01 13:17:28,199 - [/Users/sthanna/Downloads] Moved Application Drafting-20251218T102711Z-3-001.zip to Archives
+2026-04-01 13:17:28,201 - [/Users/sthanna/Downloads] Moved Application Report - 8725269 (1).pdf to Documents
+2026-04-01 13:17:28,204 - [/Users/sthanna/Downloads] Moved Cursor AI for Salesforce - Hands-On Prompts Guide.docx to Documents
+2026-04-01 13:17:28,207 - [/Users/sthanna/Downloads] Moved Sudhir_CV_21Feb2026_DE.docx.pdf to Documents
+2026-04-01 13:17:28,209 - [/Users/sthanna/Downloads] Moved Sudhir Kumar Thanna-ScrumAlliance_CSPO_Certificate.pdf to Documents
+2026-04-01 13:17:28,232 - [/Users/sthanna/Downloads] Moved make a question with bier in german.pdf to Documents
+2026-04-01 13:17:28,238 - [/Users/sthanna/Downloads] Moved 1763940069032.pdf to Documents
+2026-04-01 13:17:28,241 - [/Users/sthanna/Downloads] Moved Apple Support Case 102752945432 5_12_2025_5_04pm.pdf to Documents
+2026-04-01 13:17:28,242 - [/Users/sthanna/Downloads] Moved Massage-18.10.2025.pdf to Documents
+2026-04-01 13:17:28,245 - [/Users/sthanna/Downloads] Moved Score Report TOGAF PARt 2.pdf to Documents
+2026-04-01 13:17:28,247 - [/Users/sthanna/Downloads] Moved salesforce-google-drive-library-production.zip to Archives
+2026-04-01 13:17:28,252 - [/Users/sthanna/Downloads] Moved Salesforce.com Mail - Course TOGAF Foundation and Practitioner - Approval.pdf to Documents
+2026-04-01 13:17:28,357 - [/Users/sthanna/Downloads] Moved Spring'26 (260) - NZC Technical Enablement  .pptx to Documents
+2026-04-01 13:17:28,360 - [/Users/sthanna/Downloads] Moved illustration (14).pdf to Documents
+2026-04-01 13:17:28,366 - [/Users/sthanna/Downloads] Moved EPGC-in-Product-Management-Brochure (9).pdf to Documents
+2026-04-01 13:17:28,375 - [/Users/sthanna/Downloads] Moved Screenshot 2026-03-02 at 12.59.46.png to Images
+2026-04-01 13:17:28,378 - [/Users/sthanna/Downloads] Moved Brochure.pdf to Documents
+2026-04-01 13:17:28,380 - [/Users/sthanna/Downloads] Moved 1643797028777.jpeg to Images
+2026-04-01 13:17:28,383 - [/Users/sthanna/Downloads] Moved WhatsApp Image 2025-12-18 at 3.27.08 PM.jpeg to Images
+2026-04-01 13:17:28,390 - [/Users/sthanna/Downloads] Moved Claude Code in the SDLC - Salesforce (Shared Version).pdf to Documents
+2026-04-01 13:17:28,398 - [/Users/sthanna/Downloads] Moved apex-07LUE00000F214D2AR.log to Others
+2026-04-01 13:17:28,407 - [/Users/sthanna/Downloads] Moved #1 - WorkWise Gemini Slides.mp4 to Videos
+2026-04-01 13:17:28,410 - [/Users/sthanna/Downloads] Moved rarmacos-x64-720.tar.gz to Archives
+2026-04-01 13:17:28,415 - [/Users/sthanna/Downloads] Moved Sukruta Deshpande Bio.pptx to Documents
+2026-04-01 13:17:28,416 - [/Users/sthanna/Downloads] Moved P_SLP_007389_20251201_20251231_91_V2_0000_00000_FILE_00830000_Payslip-202512-11540-100P.pdf to Documents
+2026-04-01 13:17:28,419 - [/Users/sthanna/Downloads] Moved AccountStatement_01-DEC-2025_to_18-FEB-2026.pdf to Documents
+2026-04-01 13:17:28,454 - [/Users/sthanna/Downloads] Moved FY26 FSC Commercial Banking Main FCD + Features.pdf to Documents
+2026-04-01 13:17:28,457 - [/Users/sthanna/Downloads] Moved Screenshot 2025-09-19 at 14.48.36.png to Images
+2026-04-01 13:17:28,463 - [/Users/sthanna/Downloads] Moved Advanced Configurator Hands on - March 26.pdf to Documents
+2026-04-01 13:17:28,468 - [/Users/sthanna/Downloads] Moved 2025.11.06_Rechnung_Kundennr_423486001.pdf to Documents
+2026-04-01 13:20:08,874 - [/Users/sthanna/Downloads/VSCode-NewMac/MacOsOrganizerScript/sample_test_downloads] Dry run: notes.xyz would move to Others
+2026-04-01 13:20:08,876 - [/Users/sthanna/Downloads/VSCode-NewMac/MacOsOrganizerScript/sample_test_downloads] Dry run: archive.zip would move to Archives
+2026-04-01 13:20:08,878 - [/Users/sthanna/Downloads/VSCode-NewMac/MacOsOrganizerScript/sample_test_downloads] Dry run: report.pdf would move to Documents
+2026-04-01 13:20:08,879 - [/Users/sthanna/Downloads/VSCode-NewMac/MacOsOrganizerScript/sample_test_downloads] Dry run: photo1.jpg would move to Images
+2026-04-01 13:20:08,881 - [/Users/sthanna/Downloads/VSCode-NewMac/MacOsOrganizerScript/sample_test_downloads] Dry run: song.mp3 would move to Music

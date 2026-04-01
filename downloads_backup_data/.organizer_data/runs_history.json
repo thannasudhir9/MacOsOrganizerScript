@@ -1,0 +1,2144 @@
+[
+  {
+    "run_id": "20260401_131720",
+    "started_at": "2026-04-01T13:17:20",
+    "downloads_path": "/Users/sthanna/Downloads",
+    "backup_directory": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720",
+    "log_file": "/Users/sthanna/Downloads/.organizer_data/organize_log.txt",
+    "backup_enabled": true,
+    "dry_run": false,
+    "records": [
+      {
+        "file_name": "191bdfea-05f9-4cb8-addc-0f9672091367.pdf",
+        "original_path": "/Users/sthanna/Downloads/191bdfea-05f9-4cb8-addc-0f9672091367.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/191bdfea-05f9-4cb8-addc-0f9672091367.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/191bdfea-05f9-4cb8-addc-0f9672091367.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Landsec Case Study - Data Driven Attrition Prevention.pptx",
+        "original_path": "/Users/sthanna/Downloads/Landsec Case Study - Data Driven Attrition Prevention.pptx",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Landsec Case Study - Data Driven Attrition Prevention.pptx",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Landsec Case Study - Data Driven Attrition Prevention.pptx",
+        "status": "moved"
+      },
+      {
+        "file_name": "Welcome FY27 .mp4",
+        "original_path": "/Users/sthanna/Downloads/Welcome FY27 .mp4",
+        "category": "Videos",
+        "moved_path": "/Users/sthanna/Downloads/Videos/Welcome FY27 .mp4",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Welcome FY27 .mp4",
+        "status": "moved"
+      },
+      {
+        "file_name": "Rubric and Pitch Deck_ FY26 H2 Corporate Message Certification.pdf",
+        "original_path": "/Users/sthanna/Downloads/Rubric and Pitch Deck_ FY26 H2 Corporate Message Certification.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Rubric and Pitch Deck_ FY26 H2 Corporate Message Certification.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Rubric and Pitch Deck_ FY26 H2 Corporate Message Certification.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "invoice - amazon 2.pdf",
+        "original_path": "/Users/sthanna/Downloads/invoice - amazon 2.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/invoice - amazon 2.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/invoice - amazon 2.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "View Job Posting Details - Workday.pdf",
+        "original_path": "/Users/sthanna/Downloads/View Job Posting Details - Workday.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/View Job Posting Details - Workday.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/View Job Posting Details - Workday.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "MIAW Customer Deck - Yogesh.docx",
+        "original_path": "/Users/sthanna/Downloads/MIAW Customer Deck - Yogesh.docx",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/MIAW Customer Deck - Yogesh.docx",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/MIAW Customer Deck - Yogesh.docx",
+        "status": "moved"
+      },
+      {
+        "file_name": "RX - Budget Control.xlsx",
+        "original_path": "/Users/sthanna/Downloads/RX - Budget Control.xlsx",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/RX - Budget Control.xlsx",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/RX - Budget Control.xlsx",
+        "status": "moved"
+      },
+      {
+        "file_name": "PMI Score Report.pdf",
+        "original_path": "/Users/sthanna/Downloads/PMI Score Report.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/PMI Score Report.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/PMI Score Report.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Certificate_6327444_02132026.pdf",
+        "original_path": "/Users/sthanna/Downloads/Certificate_6327444_02132026.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Certificate_6327444_02132026.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Certificate_6327444_02132026.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "XtraFit 2026-03-01.pdf",
+        "original_path": "/Users/sthanna/Downloads/XtraFit 2026-03-01.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/XtraFit 2026-03-01.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/XtraFit 2026-03-01.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Sudhir kumar thanna - PMP Course Completion Certificate  (1).pdf",
+        "original_path": "/Users/sthanna/Downloads/Sudhir kumar thanna - PMP Course Completion Certificate  (1).pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Sudhir kumar thanna - PMP Course Completion Certificate  (1).pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Sudhir kumar thanna - PMP Course Completion Certificate  (1).pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "adharTSU1.jpeg.jpeg",
+        "original_path": "/Users/sthanna/Downloads/adharTSU1.jpeg.jpeg",
+        "category": "Images",
+        "moved_path": "/Users/sthanna/Downloads/Images/adharTSU1.jpeg.jpeg",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/adharTSU1.jpeg.jpeg",
+        "status": "moved"
+      },
+      {
+        "file_name": "260 Service Cloud_ Tier 1 - Agentforce Contact Center Voice- DRD.docx",
+        "original_path": "/Users/sthanna/Downloads/260 Service Cloud_ Tier 1 - Agentforce Contact Center Voice- DRD.docx",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/260 Service Cloud_ Tier 1 - Agentforce Contact Center Voice- DRD.docx",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/260 Service Cloud_ Tier 1 - Agentforce Contact Center Voice- DRD.docx",
+        "status": "moved"
+      },
+      {
+        "file_name": "Renee Section.mp4",
+        "original_path": "/Users/sthanna/Downloads/Renee Section.mp4",
+        "category": "Videos",
+        "moved_path": "/Users/sthanna/Downloads/Videos/Renee Section.mp4",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Renee Section.mp4",
+        "status": "moved"
+      },
+      {
+        "file_name": "invoice - amazon 3.pdf",
+        "original_path": "/Users/sthanna/Downloads/invoice - amazon 3.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/invoice - amazon 3.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/invoice - amazon 3.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "GMT20260310-160204_RecordingnewChat.txt",
+        "original_path": "/Users/sthanna/Downloads/GMT20260310-160204_RecordingnewChat.txt",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/GMT20260310-160204_RecordingnewChat.txt",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/GMT20260310-160204_RecordingnewChat.txt",
+        "status": "moved"
+      },
+      {
+        "file_name": "BI-2321YKJC.pdf",
+        "original_path": "/Users/sthanna/Downloads/BI-2321YKJC.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/BI-2321YKJC.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/BI-2321YKJC.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "The-Complete-Guide-to-Building-Skill-for-Claude.pdf",
+        "original_path": "/Users/sthanna/Downloads/The-Complete-Guide-to-Building-Skill-for-Claude.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/The-Complete-Guide-to-Building-Skill-for-Claude.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/The-Complete-Guide-to-Building-Skill-for-Claude.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Apple Support Case 102752945432 8_12_2025_11_21am.pdf",
+        "original_path": "/Users/sthanna/Downloads/Apple Support Case 102752945432 8_12_2025_11_21am.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Apple Support Case 102752945432 8_12_2025_11_21am.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Apple Support Case 102752945432 8_12_2025_11_21am.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Sandbox Cancellation Quote Approval Needed.eml",
+        "original_path": "/Users/sthanna/Downloads/Sandbox Cancellation Quote Approval Needed.eml",
+        "category": "Others",
+        "moved_path": "/Users/sthanna/Downloads/Others/Sandbox Cancellation Quote Approval Needed.eml",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Sandbox Cancellation Quote Approval Needed.eml",
+        "status": "moved"
+      },
+      {
+        "file_name": "Module 5 The Connected Contact Center.mp4",
+        "original_path": "/Users/sthanna/Downloads/Module 5 The Connected Contact Center.mp4",
+        "category": "Videos",
+        "moved_path": "/Users/sthanna/Downloads/Videos/Module 5 The Connected Contact Center.mp4",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Module 5 The Connected Contact Center.mp4",
+        "status": "moved"
+      },
+      {
+        "file_name": "Instructor Profiles.pdf",
+        "original_path": "/Users/sthanna/Downloads/Instructor Profiles.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Instructor Profiles.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Instructor Profiles.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "invoice - amazon 1.pdf",
+        "original_path": "/Users/sthanna/Downloads/invoice - amazon 1.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/invoice - amazon 1.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/invoice - amazon 1.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Sampath_Kanaparthy_CV_2-2.pdf",
+        "original_path": "/Users/sthanna/Downloads/Sampath_Kanaparthy_CV_2-2.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Sampath_Kanaparthy_CV_2-2.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Sampath_Kanaparthy_CV_2-2.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Informationsblatt Fahrschule Boost.pdf",
+        "original_path": "/Users/sthanna/Downloads/Informationsblatt Fahrschule Boost.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Informationsblatt Fahrschule Boost.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Informationsblatt Fahrschule Boost.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "2026-04 EMEA Specialist All Team Call.pptx",
+        "original_path": "/Users/sthanna/Downloads/2026-04 EMEA Specialist All Team Call.pptx",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/2026-04 EMEA Specialist All Team Call.pptx",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/2026-04 EMEA Specialist All Team Call.pptx",
+        "status": "moved"
+      },
+      {
+        "file_name": "DE36505400280281178400_EUR_Kontoauszug_August_2025_Kontostand_26_175_06_EUR_20250830_54dc6.pdf",
+        "original_path": "/Users/sthanna/Downloads/DE36505400280281178400_EUR_Kontoauszug_August_2025_Kontostand_26_175_06_EUR_20250830_54dc6.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/DE36505400280281178400_EUR_Kontoauszug_August_2025_Kontostand_26_175_06_EUR_20250830_54dc6.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/DE36505400280281178400_EUR_Kontoauszug_August_2025_Kontostand_26_175_06_EUR_20250830_54dc6.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Comp Plan.pdf",
+        "original_path": "/Users/sthanna/Downloads/Comp Plan.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Comp Plan.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Comp Plan.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "make a question with bier in german (1).pdf",
+        "original_path": "/Users/sthanna/Downloads/make a question with bier in german (1).pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/make a question with bier in german (1).pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/make a question with bier in german (1).pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "DE36505400280281178400_EUR_Kontoauszug_November_2025_Kontostand_26_119_80_EUR_20251129_9002d.pdf",
+        "original_path": "/Users/sthanna/Downloads/DE36505400280281178400_EUR_Kontoauszug_November_2025_Kontostand_26_119_80_EUR_20251129_9002d.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/DE36505400280281178400_EUR_Kontoauszug_November_2025_Kontostand_26_119_80_EUR_20251129_9002d.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/DE36505400280281178400_EUR_Kontoauszug_November_2025_Kontostand_26_119_80_EUR_20251129_9002d.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "apex-07LUE00000GGWyz2AH.log",
+        "original_path": "/Users/sthanna/Downloads/apex-07LUE00000GGWyz2AH.log",
+        "category": "Others",
+        "moved_path": "/Users/sthanna/Downloads/Others/apex-07LUE00000GGWyz2AH.log",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/apex-07LUE00000GGWyz2AH.log",
+        "status": "moved"
+      },
+      {
+        "file_name": "Video_Agentforce_Oviva.mp4",
+        "original_path": "/Users/sthanna/Downloads/Video_Agentforce_Oviva.mp4",
+        "category": "Videos",
+        "moved_path": "/Users/sthanna/Downloads/Videos/Video_Agentforce_Oviva.mp4",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Video_Agentforce_Oviva.mp4",
+        "status": "moved"
+      },
+      {
+        "file_name": ".DS_Store",
+        "original_path": "/Users/sthanna/Downloads/.DS_Store",
+        "category": "Others",
+        "moved_path": "/Users/sthanna/Downloads/Others/.DS_Store",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/.DS_Store",
+        "status": "moved"
+      },
+      {
+        "file_name": "Sudhir_CV_24Oct2025_DE.docx-1.pdf",
+        "original_path": "/Users/sthanna/Downloads/Sudhir_CV_24Oct2025_DE.docx-1.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Sudhir_CV_24Oct2025_DE.docx-1.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Sudhir_CV_24Oct2025_DE.docx-1.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "101563_202507271019PM621.pdf",
+        "original_path": "/Users/sthanna/Downloads/101563_202507271019PM621.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/101563_202507271019PM621.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/101563_202507271019PM621.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Salesforce.com Mail - Course CSPO - Certified Product Owner Approval.pdf",
+        "original_path": "/Users/sthanna/Downloads/Salesforce.com Mail - Course CSPO - Certified Product Owner Approval.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Salesforce.com Mail - Course CSPO - Certified Product Owner Approval.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Salesforce.com Mail - Course CSPO - Certified Product Owner Approval.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "XtraFit 01.02.2026.pdf",
+        "original_path": "/Users/sthanna/Downloads/XtraFit 01.02.2026.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/XtraFit 01.02.2026.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/XtraFit 01.02.2026.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "apex-07LUE00000HrmSy2AJ (1).log",
+        "original_path": "/Users/sthanna/Downloads/apex-07LUE00000HrmSy2AJ (1).log",
+        "category": "Others",
+        "moved_path": "/Users/sthanna/Downloads/Others/apex-07LUE00000HrmSy2AJ (1).log",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/apex-07LUE00000HrmSy2AJ (1).log",
+        "status": "moved"
+      },
+      {
+        "file_name": "Sudhir_CV_24Oct2025_DE.docx.pdf",
+        "original_path": "/Users/sthanna/Downloads/Sudhir_CV_24Oct2025_DE.docx.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Sudhir_CV_24Oct2025_DE.docx.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Sudhir_CV_24Oct2025_DE.docx.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "1629986918081.jpeg",
+        "original_path": "/Users/sthanna/Downloads/1629986918081.jpeg",
+        "category": "Images",
+        "moved_path": "/Users/sthanna/Downloads/Images/1629986918081.jpeg",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/1629986918081.jpeg",
+        "status": "moved"
+      },
+      {
+        "file_name": "DE36505400280281178400_EUR_Kontoauszug_Dezember_2025_Kontostand_19_784_35_EUR_20260102_89142.pdf",
+        "original_path": "/Users/sthanna/Downloads/DE36505400280281178400_EUR_Kontoauszug_Dezember_2025_Kontostand_19_784_35_EUR_20260102_89142.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/DE36505400280281178400_EUR_Kontoauszug_Dezember_2025_Kontostand_19_784_35_EUR_20260102_89142.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/DE36505400280281178400_EUR_Kontoauszug_Dezember_2025_Kontostand_19_784_35_EUR_20260102_89142.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "date 28_11_2025__tell the answers and explain in e.pdf",
+        "original_path": "/Users/sthanna/Downloads/date 28_11_2025__tell the answers and explain in e.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/date 28_11_2025__tell the answers and explain in e.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/date 28_11_2025__tell the answers and explain in e.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "EUBlueCard2026.pdf",
+        "original_path": "/Users/sthanna/Downloads/EUBlueCard2026.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/EUBlueCard2026.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/EUBlueCard2026.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "apex-07LUE00000GGX2J2AX.log",
+        "original_path": "/Users/sthanna/Downloads/apex-07LUE00000GGX2J2AX.log",
+        "category": "Others",
+        "moved_path": "/Users/sthanna/Downloads/Others/apex-07LUE00000GGX2J2AX.log",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/apex-07LUE00000GGX2J2AX.log",
+        "status": "moved"
+      },
+      {
+        "file_name": "IDFC Bank Calculation.xlsx",
+        "original_path": "/Users/sthanna/Downloads/IDFC Bank Calculation.xlsx",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/IDFC Bank Calculation.xlsx",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/IDFC Bank Calculation.xlsx",
+        "status": "moved"
+      },
+      {
+        "file_name": "ScrumwithAICertified-SUDHIRKumarThanna-1151770.pdf",
+        "original_path": "/Users/sthanna/Downloads/ScrumwithAICertified-SUDHIRKumarThanna-1151770.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/ScrumwithAICertified-SUDHIRKumarThanna-1151770.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/ScrumwithAICertified-SUDHIRKumarThanna-1151770.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "max-life-star-ulip (1).pdf",
+        "original_path": "/Users/sthanna/Downloads/max-life-star-ulip (1).pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/max-life-star-ulip (1).pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/max-life-star-ulip (1).pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "General Status Update [ongoing] (1).pptx",
+        "original_path": "/Users/sthanna/Downloads/General Status Update [ongoing] (1).pptx",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/General Status Update [ongoing] (1).pptx",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/General Status Update [ongoing] (1).pptx",
+        "status": "moved"
+      },
+      {
+        "file_name": "GMT20260219-170147_Recording_3384x1540.mp4",
+        "original_path": "/Users/sthanna/Downloads/GMT20260219-170147_Recording_3384x1540.mp4",
+        "category": "Videos",
+        "moved_path": "/Users/sthanna/Downloads/Videos/GMT20260219-170147_Recording_3384x1540.mp4",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/GMT20260219-170147_Recording_3384x1540.mp4",
+        "status": "moved"
+      },
+      {
+        "file_name": "SudhirKumarThanna-10032026.pdf",
+        "original_path": "/Users/sthanna/Downloads/SudhirKumarThanna-10032026.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/SudhirKumarThanna-10032026.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/SudhirKumarThanna-10032026.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Score Report-TOGAF PART 1.pdf",
+        "original_path": "/Users/sthanna/Downloads/Score Report-TOGAF PART 1.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Score Report-TOGAF PART 1.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Score Report-TOGAF PART 1.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "General Status Update [ongoing] (3).pptx",
+        "original_path": "/Users/sthanna/Downloads/General Status Update [ongoing] (3).pptx",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/General Status Update [ongoing] (3).pptx",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/General Status Update [ongoing] (3).pptx",
+        "status": "moved"
+      },
+      {
+        "file_name": "Simpliaxis-Invoice-Sudhir kumar thanna-qqH1tRADZrvuTQKF_pH9A5Y4dKY1WkcP.pdf",
+        "original_path": "/Users/sthanna/Downloads/Simpliaxis-Invoice-Sudhir kumar thanna-qqH1tRADZrvuTQKF_pH9A5Y4dKY1WkcP.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Simpliaxis-Invoice-Sudhir kumar thanna-qqH1tRADZrvuTQKF_pH9A5Y4dKY1WkcP.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Simpliaxis-Invoice-Sudhir kumar thanna-qqH1tRADZrvuTQKF_pH9A5Y4dKY1WkcP.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "export-orders.xlsx",
+        "original_path": "/Users/sthanna/Downloads/export-orders.xlsx",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/export-orders.xlsx",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/export-orders.xlsx",
+        "status": "moved"
+      },
+      {
+        "file_name": "curriculum-pmp.pdf",
+        "original_path": "/Users/sthanna/Downloads/curriculum-pmp.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/curriculum-pmp.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/curriculum-pmp.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Amazon.de Basket 2.pdf",
+        "original_path": "/Users/sthanna/Downloads/Amazon.de Basket 2.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Amazon.de Basket 2.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Amazon.de Basket 2.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "AccountStatement_01-DEC-2025_to_25-FEB-2026.xlsx",
+        "original_path": "/Users/sthanna/Downloads/AccountStatement_01-DEC-2025_to_25-FEB-2026.xlsx",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/AccountStatement_01-DEC-2025_to_25-FEB-2026.xlsx",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/AccountStatement_01-DEC-2025_to_25-FEB-2026.xlsx",
+        "status": "moved"
+      },
+      {
+        "file_name": "GenAI_Brochure (1) (2).pdf",
+        "original_path": "/Users/sthanna/Downloads/GenAI_Brochure (1) (2).pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/GenAI_Brochure (1) (2).pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/GenAI_Brochure (1) (2).pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "SU-The Sales Elevation - HL Architecture-051225-081342.pdf",
+        "original_path": "/Users/sthanna/Downloads/SU-The Sales Elevation - HL Architecture-051225-081342.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/SU-The Sales Elevation - HL Architecture-051225-081342.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/SU-The Sales Elevation - HL Architecture-051225-081342.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "inspect (2).html",
+        "original_path": "/Users/sthanna/Downloads/inspect (2).html",
+        "category": "Others",
+        "moved_path": "/Users/sthanna/Downloads/Others/inspect (2).html",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/inspect (2).html",
+        "status": "moved"
+      },
+      {
+        "file_name": "Mitgliedsbeitrag 2025-10-01 OCT.pdf",
+        "original_path": "/Users/sthanna/Downloads/Mitgliedsbeitrag 2025-10-01 OCT.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Mitgliedsbeitrag 2025-10-01 OCT.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Mitgliedsbeitrag 2025-10-01 OCT.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "inspect.html",
+        "original_path": "/Users/sthanna/Downloads/inspect.html",
+        "category": "Others",
+        "moved_path": "/Users/sthanna/Downloads/Others/inspect.html",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/inspect.html",
+        "status": "moved"
+      },
+      {
+        "file_name": "df25-session-demo-main.zip",
+        "original_path": "/Users/sthanna/Downloads/df25-session-demo-main.zip",
+        "category": "Archives",
+        "moved_path": "/Users/sthanna/Downloads/Archives/df25-session-demo-main.zip",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/df25-session-demo-main.zip",
+        "status": "moved"
+      },
+      {
+        "file_name": "Migration Deck_ How to Make the Move from CPQ to Revenue Cloud.pptx",
+        "original_path": "/Users/sthanna/Downloads/Migration Deck_ How to Make the Move from CPQ to Revenue Cloud.pptx",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Migration Deck_ How to Make the Move from CPQ to Revenue Cloud.pptx",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Migration Deck_ How to Make the Move from CPQ to Revenue Cloud.pptx",
+        "status": "moved"
+      },
+      {
+        "file_name": "BVC Full System Design.drawio",
+        "original_path": "/Users/sthanna/Downloads/BVC Full System Design.drawio",
+        "category": "Others",
+        "moved_path": "/Users/sthanna/Downloads/Others/BVC Full System Design.drawio",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/BVC Full System Design.drawio",
+        "status": "moved"
+      },
+      {
+        "file_name": "illustration (16).pdf",
+        "original_path": "/Users/sthanna/Downloads/illustration (16).pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/illustration (16).pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/illustration (16).pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": ".localized",
+        "original_path": "/Users/sthanna/Downloads/.localized",
+        "category": "Others",
+        "moved_path": "/Users/sthanna/Downloads/Others/.localized",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/.localized",
+        "status": "moved"
+      },
+      {
+        "file_name": "GMT20260310-160204_Recording_gallery_3840x2214.mp4",
+        "original_path": "/Users/sthanna/Downloads/GMT20260310-160204_Recording_gallery_3840x2214.mp4",
+        "category": "Videos",
+        "moved_path": "/Users/sthanna/Downloads/Videos/GMT20260310-160204_Recording_gallery_3840x2214.mp4",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/GMT20260310-160204_Recording_gallery_3840x2214.mp4",
+        "status": "moved"
+      },
+      {
+        "file_name": "Module 2 - The Plumbing - Network, Security, & SBCs.mp4",
+        "original_path": "/Users/sthanna/Downloads/Module 2 - The Plumbing - Network, Security, & SBCs.mp4",
+        "category": "Videos",
+        "moved_path": "/Users/sthanna/Downloads/Videos/Module 2 - The Plumbing - Network, Security, & SBCs.mp4",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Module 2 - The Plumbing - Network, Security, & SBCs.mp4",
+        "status": "moved"
+      },
+      {
+        "file_name": "WhatsApp Image 2025-12-18 at 3.21.35 PM.jpeg",
+        "original_path": "/Users/sthanna/Downloads/WhatsApp Image 2025-12-18 at 3.21.35 PM.jpeg",
+        "category": "Images",
+        "moved_path": "/Users/sthanna/Downloads/Images/WhatsApp Image 2025-12-18 at 3.21.35 PM.jpeg",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/WhatsApp Image 2025-12-18 at 3.21.35 PM.jpeg",
+        "status": "moved"
+      },
+      {
+        "file_name": "435ba31a-7ed2-4d0d-9c82-1471b6cfd3d9.pdf",
+        "original_path": "/Users/sthanna/Downloads/435ba31a-7ed2-4d0d-9c82-1471b6cfd3d9.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/435ba31a-7ed2-4d0d-9c82-1471b6cfd3d9.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/435ba31a-7ed2-4d0d-9c82-1471b6cfd3d9.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Setting up your new Mac.pdf",
+        "original_path": "/Users/sthanna/Downloads/Setting up your new Mac.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Setting up your new Mac.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Setting up your new Mac.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "\ud83c\udde8\ud83c\uddedSwiss Customer References & AF Use Cases.pptx",
+        "original_path": "/Users/sthanna/Downloads/\ud83c\udde8\ud83c\uddedSwiss Customer References & AF Use Cases.pptx",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/\ud83c\udde8\ud83c\uddedSwiss Customer References & AF Use Cases.pptx",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/\ud83c\udde8\ud83c\uddedSwiss Customer References & AF Use Cases.pptx",
+        "status": "moved"
+      },
+      {
+        "file_name": "FY26 FINS Customers Stories _ Story Slides.pptx",
+        "original_path": "/Users/sthanna/Downloads/FY26 FINS Customers Stories _ Story Slides.pptx",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/FY26 FINS Customers Stories _ Story Slides.pptx",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/FY26 FINS Customers Stories _ Story Slides.pptx",
+        "status": "moved"
+      },
+      {
+        "file_name": "Sudhir Kumar Thanna Completion Certificate.png",
+        "original_path": "/Users/sthanna/Downloads/Sudhir Kumar Thanna Completion Certificate.png",
+        "category": "Images",
+        "moved_path": "/Users/sthanna/Downloads/Images/Sudhir Kumar Thanna Completion Certificate.png",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Sudhir Kumar Thanna Completion Certificate.png",
+        "status": "moved"
+      },
+      {
+        "file_name": "[Srini] FDE Momentum Portfolio Review 11.3.pdf",
+        "original_path": "/Users/sthanna/Downloads/[Srini] FDE Momentum Portfolio Review 11.3.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/[Srini] FDE Momentum Portfolio Review 11.3.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/[Srini] FDE Momentum Portfolio Review 11.3.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "P_SLP_007389_20260201_20260228_91_V2_0000_00000_FILE_00830000_Payslip-202602-11540-100P.pdf",
+        "original_path": "/Users/sthanna/Downloads/P_SLP_007389_20260201_20260228_91_V2_0000_00000_FILE_00830000_Payslip-202602-11540-100P.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/P_SLP_007389_20260201_20260228_91_V2_0000_00000_FILE_00830000_Payslip-202602-11540-100P.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/P_SLP_007389_20260201_20260228_91_V2_0000_00000_FILE_00830000_Payslip-202602-11540-100P.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "ChatGPT_Atlas.dmg",
+        "original_path": "/Users/sthanna/Downloads/ChatGPT_Atlas.dmg",
+        "category": "Others",
+        "moved_path": "/Users/sthanna/Downloads/Others/ChatGPT_Atlas.dmg",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/ChatGPT_Atlas.dmg",
+        "status": "moved"
+      },
+      {
+        "file_name": "Kukatpally House Regd Document.pdf",
+        "original_path": "/Users/sthanna/Downloads/Kukatpally House Regd Document.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Kukatpally House Regd Document.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Kukatpally House Regd Document.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Post_read__Build_Your_Own_AI_Employee__Part_2_(Advanced_Workflow_Implementation).pdf",
+        "original_path": "/Users/sthanna/Downloads/Post_read__Build_Your_Own_AI_Employee__Part_2_(Advanced_Workflow_Implementation).pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Post_read__Build_Your_Own_AI_Employee__Part_2_(Advanced_Workflow_Implementation).pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Post_read__Build_Your_Own_AI_Employee__Part_2_(Advanced_Workflow_Implementation).pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Module 3 - Telephony in Salesforce.mp4",
+        "original_path": "/Users/sthanna/Downloads/Module 3 - Telephony in Salesforce.mp4",
+        "category": "Videos",
+        "moved_path": "/Users/sthanna/Downloads/Videos/Module 3 - Telephony in Salesforce.mp4",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Module 3 - Telephony in Salesforce.mp4",
+        "status": "moved"
+      },
+      {
+        "file_name": "Illustration (18) (10).pdf",
+        "original_path": "/Users/sthanna/Downloads/Illustration (18) (10).pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Illustration (18) (10).pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Illustration (18) (10).pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Mitgliedsbeitrag 2025-12-01Xtrafit.pdf",
+        "original_path": "/Users/sthanna/Downloads/Mitgliedsbeitrag 2025-12-01Xtrafit.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Mitgliedsbeitrag 2025-12-01Xtrafit.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Mitgliedsbeitrag 2025-12-01Xtrafit.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Consumption Plan - Step by Step AE Guide.pptx",
+        "original_path": "/Users/sthanna/Downloads/Consumption Plan - Step by Step AE Guide.pptx",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Consumption Plan - Step by Step AE Guide.pptx",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Consumption Plan - Step by Step AE Guide.pptx",
+        "status": "moved"
+      },
+      {
+        "file_name": "P_SLP_007389_20251001_20251031_91_V2_0000_00000_FILE_00830000_Payslip-202510-11540-100P.pdf",
+        "original_path": "/Users/sthanna/Downloads/P_SLP_007389_20251001_20251031_91_V2_0000_00000_FILE_00830000_Payslip-202510-11540-100P.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/P_SLP_007389_20251001_20251031_91_V2_0000_00000_FILE_00830000_Payslip-202510-11540-100P.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/P_SLP_007389_20251001_20251031_91_V2_0000_00000_FILE_00830000_Payslip-202510-11540-100P.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Bank-Statement-Summary (1).pdf",
+        "original_path": "/Users/sthanna/Downloads/Bank-Statement-Summary (1).pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Bank-Statement-Summary (1).pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Bank-Statement-Summary (1).pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "RCC - Certification (Shared)-20251006T130359Z-1-001.zip",
+        "original_path": "/Users/sthanna/Downloads/RCC - Certification (Shared)-20251006T130359Z-1-001.zip",
+        "category": "Archives",
+        "moved_path": "/Users/sthanna/Downloads/Archives/RCC - Certification (Shared)-20251006T130359Z-1-001.zip",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/RCC - Certification (Shared)-20251006T130359Z-1-001.zip",
+        "status": "moved"
+      },
+      {
+        "file_name": "PMP Experience Application.pdf",
+        "original_path": "/Users/sthanna/Downloads/PMP Experience Application.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/PMP Experience Application.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/PMP Experience Application.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Bank-Statement-Summary.pdf",
+        "original_path": "/Users/sthanna/Downloads/Bank-Statement-Summary.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Bank-Statement-Summary.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Bank-Statement-Summary.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Pruefstellen-RP.xlsx",
+        "original_path": "/Users/sthanna/Downloads/Pruefstellen-RP.xlsx",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Pruefstellen-RP.xlsx",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Pruefstellen-RP.xlsx",
+        "status": "moved"
+      },
+      {
+        "file_name": "PMP Experience.pdf",
+        "original_path": "/Users/sthanna/Downloads/PMP Experience.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/PMP Experience.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/PMP Experience.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "dhl-schadensanzeige-0715 - English.pdf",
+        "original_path": "/Users/sthanna/Downloads/dhl-schadensanzeige-0715 - English.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/dhl-schadensanzeige-0715 - English.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/dhl-schadensanzeige-0715 - English.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "General Status Update [ongoing] (2).pptx",
+        "original_path": "/Users/sthanna/Downloads/General Status Update [ongoing] (2).pptx",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/General Status Update [ongoing] (2).pptx",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/General Status Update [ongoing] (2).pptx",
+        "status": "moved"
+      },
+      {
+        "file_name": "Revenue Cloud Deployment Guide (Pilot) (1).pdf",
+        "original_path": "/Users/sthanna/Downloads/Revenue Cloud Deployment Guide (Pilot) (1).pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Revenue Cloud Deployment Guide (Pilot) (1).pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Revenue Cloud Deployment Guide (Pilot) (1).pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "SU-F&T Design - RC Quote Management Process-051225-082608.pdf",
+        "original_path": "/Users/sthanna/Downloads/SU-F&T Design - RC Quote Management Process-051225-082608.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/SU-F&T Design - RC Quote Management Process-051225-082608.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/SU-F&T Design - RC Quote Management Process-051225-082608.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Post_read__Job_Hunting_and_Job_Application_Using_AI_-_(Agentic_Process)_C6.pdf",
+        "original_path": "/Users/sthanna/Downloads/Post_read__Job_Hunting_and_Job_Application_Using_AI_-_(Agentic_Process)_C6.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Post_read__Job_Hunting_and_Job_Application_Using_AI_-_(Agentic_Process)_C6.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Post_read__Job_Hunting_and_Job_Application_Using_AI_-_(Agentic_Process)_C6.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "GMT20260310-160204_Recording.transcript.vtt",
+        "original_path": "/Users/sthanna/Downloads/GMT20260310-160204_Recording.transcript.vtt",
+        "category": "Others",
+        "moved_path": "/Users/sthanna/Downloads/Others/GMT20260310-160204_Recording.transcript.vtt",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/GMT20260310-160204_Recording.transcript.vtt",
+        "status": "moved"
+      },
+      {
+        "file_name": "Fast Start - Key Strategic Objectives (AMER_APAC) (1).mp4",
+        "original_path": "/Users/sthanna/Downloads/Fast Start - Key Strategic Objectives (AMER_APAC) (1).mp4",
+        "category": "Videos",
+        "moved_path": "/Users/sthanna/Downloads/Videos/Fast Start - Key Strategic Objectives (AMER_APAC) (1).mp4",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Fast Start - Key Strategic Objectives (AMER_APAC) (1).mp4",
+        "status": "moved"
+      },
+      {
+        "file_name": "Salesforce AI Fluency Playbook.pdf",
+        "original_path": "/Users/sthanna/Downloads/Salesforce AI Fluency Playbook.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Salesforce AI Fluency Playbook.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Salesforce AI Fluency Playbook.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "GitHubDesktop-arm64.zip",
+        "original_path": "/Users/sthanna/Downloads/GitHubDesktop-arm64.zip",
+        "category": "Archives",
+        "moved_path": "/Users/sthanna/Downloads/Archives/GitHubDesktop-arm64.zip",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/GitHubDesktop-arm64.zip",
+        "status": "moved"
+      },
+      {
+        "file_name": "inspect (3).html",
+        "original_path": "/Users/sthanna/Downloads/inspect (3).html",
+        "category": "Others",
+        "moved_path": "/Users/sthanna/Downloads/Others/inspect (3).html",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/inspect (3).html",
+        "status": "moved"
+      },
+      {
+        "file_name": "apex-07LUE00000HrmSy2AJ.log",
+        "original_path": "/Users/sthanna/Downloads/apex-07LUE00000HrmSy2AJ.log",
+        "category": "Others",
+        "moved_path": "/Users/sthanna/Downloads/Others/apex-07LUE00000HrmSy2AJ.log",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/apex-07LUE00000HrmSy2AJ.log",
+        "status": "moved"
+      },
+      {
+        "file_name": "Massage-15.11.2025.pdf",
+        "original_path": "/Users/sthanna/Downloads/Massage-15.11.2025.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Massage-15.11.2025.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Massage-15.11.2025.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Sudhir_Kumar_Thanna_2025-12-10_2115.pdf",
+        "original_path": "/Users/sthanna/Downloads/Sudhir_Kumar_Thanna_2025-12-10_2115.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Sudhir_Kumar_Thanna_2025-12-10_2115.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Sudhir_Kumar_Thanna_2025-12-10_2115.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "create 2 or 3 questions and answers using these wo.pdf",
+        "original_path": "/Users/sthanna/Downloads/create 2 or 3 questions and answers using these wo.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/create 2 or 3 questions and answers using these wo.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/create 2 or 3 questions and answers using these wo.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "inspect (1).html",
+        "original_path": "/Users/sthanna/Downloads/inspect (1).html",
+        "category": "Others",
+        "moved_path": "/Users/sthanna/Downloads/Others/inspect (1).html",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/inspect (1).html",
+        "status": "moved"
+      },
+      {
+        "file_name": "ai-job-monitor-main.zip",
+        "original_path": "/Users/sthanna/Downloads/ai-job-monitor-main.zip",
+        "category": "Archives",
+        "moved_path": "/Users/sthanna/Downloads/Archives/ai-job-monitor-main.zip",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/ai-job-monitor-main.zip",
+        "status": "moved"
+      },
+      {
+        "file_name": "Landsec Case Study - Data Driven Attrition Prevention.pdf",
+        "original_path": "/Users/sthanna/Downloads/Landsec Case Study - Data Driven Attrition Prevention.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Landsec Case Study - Data Driven Attrition Prevention.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Landsec Case Study - Data Driven Attrition Prevention.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "P_SLP_007389_20260301_20260331_91_V2_0000_00000_FILE_00830000_Payslip-202603-11540-100P.pdf",
+        "original_path": "/Users/sthanna/Downloads/P_SLP_007389_20260301_20260331_91_V2_0000_00000_FILE_00830000_Payslip-202603-11540-100P.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/P_SLP_007389_20260301_20260331_91_V2_0000_00000_FILE_00830000_Payslip-202603-11540-100P.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/P_SLP_007389_20260301_20260331_91_V2_0000_00000_FILE_00830000_Payslip-202603-11540-100P.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "system-prompts-and-models-of-ai-tools-main.zip",
+        "original_path": "/Users/sthanna/Downloads/system-prompts-and-models-of-ai-tools-main.zip",
+        "category": "Archives",
+        "moved_path": "/Users/sthanna/Downloads/Archives/system-prompts-and-models-of-ai-tools-main.zip",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/system-prompts-and-models-of-ai-tools-main.zip",
+        "status": "moved"
+      },
+      {
+        "file_name": "SU-F&T Design - Order Management End-to-End-051225-082900.pdf",
+        "original_path": "/Users/sthanna/Downloads/SU-F&T Design - Order Management End-to-End-051225-082900.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/SU-F&T Design - Order Management End-to-End-051225-082900.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/SU-F&T Design - Order Management End-to-End-051225-082900.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "adharTSU2.jpeg.jpeg.jpeg",
+        "original_path": "/Users/sthanna/Downloads/adharTSU2.jpeg.jpeg.jpeg",
+        "category": "Images",
+        "moved_path": "/Users/sthanna/Downloads/Images/adharTSU2.jpeg.jpeg.jpeg",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/adharTSU2.jpeg.jpeg.jpeg",
+        "status": "moved"
+      },
+      {
+        "file_name": "Salesforce First Call Deck_ Corporate Presentation FY27 - Welcome to the Agentic Enterprise.pptx",
+        "original_path": "/Users/sthanna/Downloads/Salesforce First Call Deck_ Corporate Presentation FY27 - Welcome to the Agentic Enterprise.pptx",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Salesforce First Call Deck_ Corporate Presentation FY27 - Welcome to the Agentic Enterprise.pptx",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Salesforce First Call Deck_ Corporate Presentation FY27 - Welcome to the Agentic Enterprise.pptx",
+        "status": "moved"
+      },
+      {
+        "file_name": "Job Hunting and Job Application Using AI - (Agentic Process) Notes.pdf",
+        "original_path": "/Users/sthanna/Downloads/Job Hunting and Job Application Using AI - (Agentic Process) Notes.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Job Hunting and Job Application Using AI - (Agentic Process) Notes.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Job Hunting and Job Application Using AI - (Agentic Process) Notes.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Reference Form - Yemi.docx",
+        "original_path": "/Users/sthanna/Downloads/Reference Form - Yemi.docx",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Reference Form - Yemi.docx",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Reference Form - Yemi.docx",
+        "status": "moved"
+      },
+      {
+        "file_name": "Gmail - You are now enrolled in Faster German A1 Course.pdf",
+        "original_path": "/Users/sthanna/Downloads/Gmail - You are now enrolled in Faster German A1 Course.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Gmail - You are now enrolled in Faster German A1 Course.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Gmail - You are now enrolled in Faster German A1 Course.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Gmail - Registration confirmation -A1 level German Course.pdf",
+        "original_path": "/Users/sthanna/Downloads/Gmail - Registration confirmation -A1 level German Course.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Gmail - Registration confirmation -A1 level German Course.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Gmail - Registration confirmation -A1 level German Course.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Thanna_Sudhir_Kumar_Certificate.pdf",
+        "original_path": "/Users/sthanna/Downloads/Thanna_Sudhir_Kumar_Certificate.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Thanna_Sudhir_Kumar_Certificate.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Thanna_Sudhir_Kumar_Certificate.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Fund Performance.pdf",
+        "original_path": "/Users/sthanna/Downloads/Fund Performance.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Fund Performance.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Fund Performance.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "GMT20260310-160204_Recording.cc.vtt",
+        "original_path": "/Users/sthanna/Downloads/GMT20260310-160204_Recording.cc.vtt",
+        "category": "Others",
+        "moved_path": "/Users/sthanna/Downloads/Others/GMT20260310-160204_Recording.cc.vtt",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/GMT20260310-160204_Recording.cc.vtt",
+        "status": "moved"
+      },
+      {
+        "file_name": "Module 4 - Workforce Management.mp4",
+        "original_path": "/Users/sthanna/Downloads/Module 4 - Workforce Management.mp4",
+        "category": "Videos",
+        "moved_path": "/Users/sthanna/Downloads/Videos/Module 4 - Workforce Management.mp4",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Module 4 - Workforce Management.mp4",
+        "status": "moved"
+      },
+      {
+        "file_name": "Gmail - Project Management Professional (PMP) Certification Training _.pdf",
+        "original_path": "/Users/sthanna/Downloads/Gmail - Project Management Professional (PMP) Certification Training _.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Gmail - Project Management Professional (PMP) Certification Training _.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Gmail - Project Management Professional (PMP) Certification Training _.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Fast Start - Key Strategic Objectives (AMER_APAC).mp4",
+        "original_path": "/Users/sthanna/Downloads/Fast Start - Key Strategic Objectives (AMER_APAC).mp4",
+        "category": "Videos",
+        "moved_path": "/Users/sthanna/Downloads/Videos/Fast Start - Key Strategic Objectives (AMER_APAC).mp4",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Fast Start - Key Strategic Objectives (AMER_APAC).mp4",
+        "status": "moved"
+      },
+      {
+        "file_name": "Sudhir New Passport 2022.pdf",
+        "original_path": "/Users/sthanna/Downloads/Sudhir New Passport 2022.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Sudhir New Passport 2022.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Sudhir New Passport 2022.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "apex-07LQ100000BXamLMAT.log",
+        "original_path": "/Users/sthanna/Downloads/apex-07LQ100000BXamLMAT.log",
+        "category": "Others",
+        "moved_path": "/Users/sthanna/Downloads/Others/apex-07LQ100000BXamLMAT.log",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/apex-07LQ100000BXamLMAT.log",
+        "status": "moved"
+      },
+      {
+        "file_name": "BVC System Design 1.jpg",
+        "original_path": "/Users/sthanna/Downloads/BVC System Design 1.jpg",
+        "category": "Images",
+        "moved_path": "/Users/sthanna/Downloads/Images/BVC System Design 1.jpg",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/BVC System Design 1.jpg",
+        "status": "moved"
+      },
+      {
+        "file_name": "Sudhir payment receipt (1) (1).pdf",
+        "original_path": "/Users/sthanna/Downloads/Sudhir payment receipt (1) (1).pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Sudhir payment receipt (1) (1).pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Sudhir payment receipt (1) (1).pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "MIAW Customer Deck.pdf",
+        "original_path": "/Users/sthanna/Downloads/MIAW Customer Deck.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/MIAW Customer Deck.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/MIAW Customer Deck.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "P_SLP_007389_20251101_20251130_91_V2_0000_00000_FILE_00830000_Payslip-202511-11540-100P.pdf",
+        "original_path": "/Users/sthanna/Downloads/P_SLP_007389_20251101_20251130_91_V2_0000_00000_FILE_00830000_Payslip-202511-11540-100P.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/P_SLP_007389_20251101_20251130_91_V2_0000_00000_FILE_00830000_Payslip-202511-11540-100P.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/P_SLP_007389_20251101_20251130_91_V2_0000_00000_FILE_00830000_Payslip-202511-11540-100P.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "apex-07LUE00000ImSj32AF.log",
+        "original_path": "/Users/sthanna/Downloads/apex-07LUE00000ImSj32AF.log",
+        "category": "Others",
+        "moved_path": "/Users/sthanna/Downloads/Others/apex-07LUE00000ImSj32AF.log",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/apex-07LUE00000ImSj32AF.log",
+        "status": "moved"
+      },
+      {
+        "file_name": "Amazon.de Basket.pdf",
+        "original_path": "/Users/sthanna/Downloads/Amazon.de Basket.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Amazon.de Basket.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Amazon.de Basket.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "orgfarm-bc508345a5-dev-ed.develop.my.site.com_SFTradingSTK_s_.png",
+        "original_path": "/Users/sthanna/Downloads/orgfarm-bc508345a5-dev-ed.develop.my.site.com_SFTradingSTK_s_.png",
+        "category": "Images",
+        "moved_path": "/Users/sthanna/Downloads/Images/orgfarm-bc508345a5-dev-ed.develop.my.site.com_SFTradingSTK_s_.png",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/orgfarm-bc508345a5-dev-ed.develop.my.site.com_SFTradingSTK_s_.png",
+        "status": "moved"
+      },
+      {
+        "file_name": "PH Dreamin' 2026 - Constraint Modeling Language (CML).pdf",
+        "original_path": "/Users/sthanna/Downloads/PH Dreamin' 2026 - Constraint Modeling Language (CML).pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/PH Dreamin' 2026 - Constraint Modeling Language (CML).pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/PH Dreamin' 2026 - Constraint Modeling Language (CML).pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "WhatsApp Image 2024-07-15 at 10.21.02 AM (1).jpeg",
+        "original_path": "/Users/sthanna/Downloads/WhatsApp Image 2024-07-15 at 10.21.02 AM (1).jpeg",
+        "category": "Images",
+        "moved_path": "/Users/sthanna/Downloads/Images/WhatsApp Image 2024-07-15 at 10.21.02 AM (1).jpeg",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/WhatsApp Image 2024-07-15 at 10.21.02 AM (1).jpeg",
+        "status": "moved"
+      },
+      {
+        "file_name": "Docker.dmg",
+        "original_path": "/Users/sthanna/Downloads/Docker.dmg",
+        "category": "Others",
+        "moved_path": "/Users/sthanna/Downloads/Others/Docker.dmg",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Docker.dmg",
+        "status": "moved"
+      },
+      {
+        "file_name": "EMEA Consulting - Hack the V2MOM.pptx",
+        "original_path": "/Users/sthanna/Downloads/EMEA Consulting - Hack the V2MOM.pptx",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/EMEA Consulting - Hack the V2MOM.pptx",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/EMEA Consulting - Hack the V2MOM.pptx",
+        "status": "moved"
+      },
+      {
+        "file_name": "Simpliaxis-Invoice-Sudhir Kumar Thanna-qqH1tRADZrvuTQKF_pH9A5Y4dKYyW0cP (1).pdf",
+        "original_path": "/Users/sthanna/Downloads/Simpliaxis-Invoice-Sudhir Kumar Thanna-qqH1tRADZrvuTQKF_pH9A5Y4dKYyW0cP (1).pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Simpliaxis-Invoice-Sudhir Kumar Thanna-qqH1tRADZrvuTQKF_pH9A5Y4dKYyW0cP (1).pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Simpliaxis-Invoice-Sudhir Kumar Thanna-qqH1tRADZrvuTQKF_pH9A5Y4dKYyW0cP (1).pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "FY26 Financial Services Cloud FCD - Service W_Features - Main Narrative.pptx",
+        "original_path": "/Users/sthanna/Downloads/FY26 Financial Services Cloud FCD - Service W_Features - Main Narrative.pptx",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/FY26 Financial Services Cloud FCD - Service W_Features - Main Narrative.pptx",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/FY26 Financial Services Cloud FCD - Service W_Features - Main Narrative.pptx",
+        "status": "moved"
+      },
+      {
+        "file_name": "1763210649890.pdf",
+        "original_path": "/Users/sthanna/Downloads/1763210649890.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/1763210649890.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/1763210649890.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Comp Plan (1).pdf",
+        "original_path": "/Users/sthanna/Downloads/Comp Plan (1).pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Comp Plan (1).pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Comp Plan (1).pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "orgfarm-bc508345a5-dev-ed.develop.my.site.com_SFTradingSTK_s_ (1).png",
+        "original_path": "/Users/sthanna/Downloads/orgfarm-bc508345a5-dev-ed.develop.my.site.com_SFTradingSTK_s_ (1).png",
+        "category": "Images",
+        "moved_path": "/Users/sthanna/Downloads/Images/orgfarm-bc508345a5-dev-ed.develop.my.site.com_SFTradingSTK_s_ (1).png",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/orgfarm-bc508345a5-dev-ed.develop.my.site.com_SFTradingSTK_s_ (1).png",
+        "status": "moved"
+      },
+      {
+        "file_name": "Job Hunting and Job Application Using AI - (Agentic Process) Notes.docx",
+        "original_path": "/Users/sthanna/Downloads/Job Hunting and Job Application Using AI - (Agentic Process) Notes.docx",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Job Hunting and Job Application Using AI - (Agentic Process) Notes.docx",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Job Hunting and Job Application Using AI - (Agentic Process) Notes.docx",
+        "status": "moved"
+      },
+      {
+        "file_name": "pan_car-min.PNG",
+        "original_path": "/Users/sthanna/Downloads/pan_car-min.PNG",
+        "category": "Images",
+        "moved_path": "/Users/sthanna/Downloads/Images/pan_car-min.PNG",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/pan_car-min.PNG",
+        "status": "moved"
+      },
+      {
+        "file_name": "Agentforce Vibes IDE - SAIL Enablement Session.pptx",
+        "original_path": "/Users/sthanna/Downloads/Agentforce Vibes IDE - SAIL Enablement Session.pptx",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Agentforce Vibes IDE - SAIL Enablement Session.pptx",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Agentforce Vibes IDE - SAIL Enablement Session.pptx",
+        "status": "moved"
+      },
+      {
+        "file_name": "Module 1 - CCaaS Fundamentals.mp4",
+        "original_path": "/Users/sthanna/Downloads/Module 1 - CCaaS Fundamentals.mp4",
+        "category": "Videos",
+        "moved_path": "/Users/sthanna/Downloads/Videos/Module 1 - CCaaS Fundamentals.mp4",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Module 1 - CCaaS Fundamentals.mp4",
+        "status": "moved"
+      },
+      {
+        "file_name": "113921_202508050856PM778.pdf",
+        "original_path": "/Users/sthanna/Downloads/113921_202508050856PM778.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/113921_202508050856PM778.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/113921_202508050856PM778.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Apple Support Case 102721179116 30_10_2025_11_20am.pdf",
+        "original_path": "/Users/sthanna/Downloads/Apple Support Case 102721179116 30_10_2025_11_20am.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Apple Support Case 102721179116 30_10_2025_11_20am.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Apple Support Case 102721179116 30_10_2025_11_20am.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "BVC Design TDD.drawio",
+        "original_path": "/Users/sthanna/Downloads/BVC Design TDD.drawio",
+        "category": "Others",
+        "moved_path": "/Users/sthanna/Downloads/Others/BVC Design TDD.drawio",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/BVC Design TDD.drawio",
+        "status": "moved"
+      },
+      {
+        "file_name": "curriculum.pdf",
+        "original_path": "/Users/sthanna/Downloads/curriculum.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/curriculum.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/curriculum.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "thepopebot-main.zip",
+        "original_path": "/Users/sthanna/Downloads/thepopebot-main.zip",
+        "category": "Archives",
+        "moved_path": "/Users/sthanna/Downloads/Archives/thepopebot-main.zip",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/thepopebot-main.zip",
+        "status": "moved"
+      },
+      {
+        "file_name": "apex-07LUE00000HstaV2AR.log",
+        "original_path": "/Users/sthanna/Downloads/apex-07LUE00000HstaV2AR.log",
+        "category": "Others",
+        "moved_path": "/Users/sthanna/Downloads/Others/apex-07LUE00000HstaV2AR.log",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/apex-07LUE00000HstaV2AR.log",
+        "status": "moved"
+      },
+      {
+        "file_name": "adharTSU large.jpeg",
+        "original_path": "/Users/sthanna/Downloads/adharTSU large.jpeg",
+        "category": "Images",
+        "moved_path": "/Users/sthanna/Downloads/Images/adharTSU large.jpeg",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/adharTSU large.jpeg",
+        "status": "moved"
+      },
+      {
+        "file_name": "Leveling Guides.xlsx",
+        "original_path": "/Users/sthanna/Downloads/Leveling Guides.xlsx",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Leveling Guides.xlsx",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Leveling Guides.xlsx",
+        "status": "moved"
+      },
+      {
+        "file_name": "P_SLP_007389_20251101_20251130_91_V2_0000_00000_FILE_00830000_Payslip-202511-11540-100P (1).pdf",
+        "original_path": "/Users/sthanna/Downloads/P_SLP_007389_20251101_20251130_91_V2_0000_00000_FILE_00830000_Payslip-202511-11540-100P (1).pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/P_SLP_007389_20251101_20251130_91_V2_0000_00000_FILE_00830000_Payslip-202511-11540-100P (1).pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/P_SLP_007389_20251101_20251130_91_V2_0000_00000_FILE_00830000_Payslip-202511-11540-100P (1).pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "258a816d-9a94-4c4b-a9ea-5874c1ac2329.pdf",
+        "original_path": "/Users/sthanna/Downloads/258a816d-9a94-4c4b-a9ea-5874c1ac2329.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/258a816d-9a94-4c4b-a9ea-5874c1ac2329.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/258a816d-9a94-4c4b-a9ea-5874c1ac2329.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Simpliaxis-Invoice-Sudhir kumar thanna-qqH1tRADZrvuTQKF_pH9A5Y4dKY1WkcP (1).pdf",
+        "original_path": "/Users/sthanna/Downloads/Simpliaxis-Invoice-Sudhir kumar thanna-qqH1tRADZrvuTQKF_pH9A5Y4dKY1WkcP (1).pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Simpliaxis-Invoice-Sudhir kumar thanna-qqH1tRADZrvuTQKF_pH9A5Y4dKY1WkcP (1).pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Simpliaxis-Invoice-Sudhir kumar thanna-qqH1tRADZrvuTQKF_pH9A5Y4dKY1WkcP (1).pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "AI_Generalist_Roadmap.pdf",
+        "original_path": "/Users/sthanna/Downloads/AI_Generalist_Roadmap.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/AI_Generalist_Roadmap.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/AI_Generalist_Roadmap.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Methodology.pdf",
+        "original_path": "/Users/sthanna/Downloads/Methodology.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Methodology.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Methodology.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Massage - Feb 2026.pdf",
+        "original_path": "/Users/sthanna/Downloads/Massage - Feb 2026.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Massage - Feb 2026.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Massage - Feb 2026.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Pre_Read_Build_Your_Own_AI_Employee_Part_2_C6.pdf",
+        "original_path": "/Users/sthanna/Downloads/Pre_Read_Build_Your_Own_AI_Employee_Part_2_C6.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Pre_Read_Build_Your_Own_AI_Employee_Part_2_C6.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Pre_Read_Build_Your_Own_AI_Employee_Part_2_C6.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "wd12.myworkday.com_salesforce_d_inst_1$9925_9925$140344.htmld.png",
+        "original_path": "/Users/sthanna/Downloads/wd12.myworkday.com_salesforce_d_inst_1$9925_9925$140344.htmld.png",
+        "category": "Images",
+        "moved_path": "/Users/sthanna/Downloads/Images/wd12.myworkday.com_salesforce_d_inst_1$9925_9925$140344.htmld.png",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/wd12.myworkday.com_salesforce_d_inst_1$9925_9925$140344.htmld.png",
+        "status": "moved"
+      },
+      {
+        "file_name": "RC Cloud Consultant Merged PDF OCR.pdf",
+        "original_path": "/Users/sthanna/Downloads/RC Cloud Consultant Merged PDF OCR.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/RC Cloud Consultant Merged PDF OCR.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/RC Cloud Consultant Merged PDF OCR.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "WhatsApp Image 2024-07-15 at 10.21.02 AM.jpeg",
+        "original_path": "/Users/sthanna/Downloads/WhatsApp Image 2024-07-15 at 10.21.02 AM.jpeg",
+        "category": "Images",
+        "moved_path": "/Users/sthanna/Downloads/Images/WhatsApp Image 2024-07-15 at 10.21.02 AM.jpeg",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/WhatsApp Image 2024-07-15 at 10.21.02 AM.jpeg",
+        "status": "moved"
+      },
+      {
+        "file_name": "Sudhir kumar thanna - PMP Course Completion Certificate .pdf",
+        "original_path": "/Users/sthanna/Downloads/Sudhir kumar thanna - PMP Course Completion Certificate .pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Sudhir kumar thanna - PMP Course Completion Certificate .pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Sudhir kumar thanna - PMP Course Completion Certificate .pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "trailblazer-social-picture.png",
+        "original_path": "/Users/sthanna/Downloads/trailblazer-social-picture.png",
+        "category": "Images",
+        "moved_path": "/Users/sthanna/Downloads/Images/trailblazer-social-picture.png",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/trailblazer-social-picture.png",
+        "status": "moved"
+      },
+      {
+        "file_name": "BVC System Design.drawio.pdf",
+        "original_path": "/Users/sthanna/Downloads/BVC System Design.drawio.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/BVC System Design.drawio.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/BVC System Design.drawio.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "BVC - Strategic BCV Agent for CTO Scope Definition.pdf",
+        "original_path": "/Users/sthanna/Downloads/BVC - Strategic BCV Agent for CTO Scope Definition.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/BVC - Strategic BCV Agent for CTO Scope Definition.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/BVC - Strategic BCV Agent for CTO Scope Definition.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Zoom.pkg",
+        "original_path": "/Users/sthanna/Downloads/Zoom.pkg",
+        "category": "Others",
+        "moved_path": "/Users/sthanna/Downloads/Others/Zoom.pkg",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Zoom.pkg",
+        "status": "moved"
+      },
+      {
+        "file_name": "wd12.myworkday.com_salesforce_d_inst_1$9925_9925$136147.htmld.png",
+        "original_path": "/Users/sthanna/Downloads/wd12.myworkday.com_salesforce_d_inst_1$9925_9925$136147.htmld.png",
+        "category": "Images",
+        "moved_path": "/Users/sthanna/Downloads/Images/wd12.myworkday.com_salesforce_d_inst_1$9925_9925$136147.htmld.png",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/wd12.myworkday.com_salesforce_d_inst_1$9925_9925$136147.htmld.png",
+        "status": "moved"
+      },
+      {
+        "file_name": "Salesforce.com Mail - Pearson VUE Confirmation of Payment - RC Cloud.pdf",
+        "original_path": "/Users/sthanna/Downloads/Salesforce.com Mail - Pearson VUE Confirmation of Payment - RC Cloud.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Salesforce.com Mail - Pearson VUE Confirmation of Payment - RC Cloud.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Salesforce.com Mail - Pearson VUE Confirmation of Payment - RC Cloud.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Simpliaxis-Invoice-Sudhir Kumar Thanna-qqH1tRADZrvuTQKF_pH9A5Y4dKY1XkAH.pdf",
+        "original_path": "/Users/sthanna/Downloads/Simpliaxis-Invoice-Sudhir Kumar Thanna-qqH1tRADZrvuTQKF_pH9A5Y4dKY1XkAH.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Simpliaxis-Invoice-Sudhir Kumar Thanna-qqH1tRADZrvuTQKF_pH9A5Y4dKY1XkAH.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Simpliaxis-Invoice-Sudhir Kumar Thanna-qqH1tRADZrvuTQKF_pH9A5Y4dKY1XkAH.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Sudhir_CV_21Feb2026_DE.docx (1).pdf",
+        "original_path": "/Users/sthanna/Downloads/Sudhir_CV_21Feb2026_DE.docx (1).pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Sudhir_CV_21Feb2026_DE.docx (1).pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Sudhir_CV_21Feb2026_DE.docx (1).pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "DE36505400280281178400_EUR_Kontoauszug_Oktober_2025_Kontostand_22_789_78_EUR_20251101_79662.pdf",
+        "original_path": "/Users/sthanna/Downloads/DE36505400280281178400_EUR_Kontoauszug_Oktober_2025_Kontostand_22_789_78_EUR_20251101_79662.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/DE36505400280281178400_EUR_Kontoauszug_Oktober_2025_Kontostand_22_789_78_EUR_20251101_79662.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/DE36505400280281178400_EUR_Kontoauszug_Oktober_2025_Kontostand_22_789_78_EUR_20251101_79662.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "-logs-1773670074370.json",
+        "original_path": "/Users/sthanna/Downloads/-logs-1773670074370.json",
+        "category": "Others",
+        "moved_path": "/Users/sthanna/Downloads/Others/-logs-1773670074370.json",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/-logs-1773670074370.json",
+        "status": "moved"
+      },
+      {
+        "file_name": "Mastery_Builders_v3.2.pdf",
+        "original_path": "/Users/sthanna/Downloads/Mastery_Builders_v3.2.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Mastery_Builders_v3.2.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Mastery_Builders_v3.2.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "DE36505400280281178400_EUR_Kontoauszug_September_2025_Kontostand_24_189_72_EUR_20251001_1f288.pdf",
+        "original_path": "/Users/sthanna/Downloads/DE36505400280281178400_EUR_Kontoauszug_September_2025_Kontostand_24_189_72_EUR_20251001_1f288.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/DE36505400280281178400_EUR_Kontoauszug_September_2025_Kontostand_24_189_72_EUR_20251001_1f288.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/DE36505400280281178400_EUR_Kontoauszug_September_2025_Kontostand_24_189_72_EUR_20251001_1f288.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Gmail - The Knowledge Academy - Payment confirmation email.pdf",
+        "original_path": "/Users/sthanna/Downloads/Gmail - The Knowledge Academy - Payment confirmation email.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Gmail - The Knowledge Academy - Payment confirmation email.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Gmail - The Knowledge Academy - Payment confirmation email.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "TOGAF\u00ae Certification -Certificate-2.pdf",
+        "original_path": "/Users/sthanna/Downloads/TOGAF\u00ae Certification -Certificate-2.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/TOGAF\u00ae Certification -Certificate-2.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/TOGAF\u00ae Certification -Certificate-2.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Screenshot 2026-03-12 at 15.00.50.png",
+        "original_path": "/Users/sthanna/Downloads/Screenshot 2026-03-12 at 15.00.50.png",
+        "category": "Images",
+        "moved_path": "/Users/sthanna/Downloads/Images/Screenshot 2026-03-12 at 15.00.50.png",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Screenshot 2026-03-12 at 15.00.50.png",
+        "status": "moved"
+      },
+      {
+        "file_name": "Sudhir Germany Visa 2.pdf",
+        "original_path": "/Users/sthanna/Downloads/Sudhir Germany Visa 2.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Sudhir Germany Visa 2.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Sudhir Germany Visa 2.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "sso.teachable.com_secure_278440_current_user_purchase_history_156358607.pdf",
+        "original_path": "/Users/sthanna/Downloads/sso.teachable.com_secure_278440_current_user_purchase_history_156358607.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/sso.teachable.com_secure_278440_current_user_purchase_history_156358607.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/sso.teachable.com_secure_278440_current_user_purchase_history_156358607.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "List of complimentory courses 1 2.xlsx",
+        "original_path": "/Users/sthanna/Downloads/List of complimentory courses 1 2.xlsx",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/List of complimentory courses 1 2.xlsx",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/List of complimentory courses 1 2.xlsx",
+        "status": "moved"
+      },
+      {
+        "file_name": "Massage - March 2026.pdf",
+        "original_path": "/Users/sthanna/Downloads/Massage - March 2026.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Massage - March 2026.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Massage - March 2026.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Cert22.pdf",
+        "original_path": "/Users/sthanna/Downloads/Cert22.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Cert22.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Cert22.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Mitgliedsbeitrag 2025-11-01 NOV.pdf",
+        "original_path": "/Users/sthanna/Downloads/Mitgliedsbeitrag 2025-11-01 NOV.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Mitgliedsbeitrag 2025-11-01 NOV.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Mitgliedsbeitrag 2025-11-01 NOV.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "GMT20260310-160204_Recording_3840x2214.mp4",
+        "original_path": "/Users/sthanna/Downloads/GMT20260310-160204_Recording_3840x2214.mp4",
+        "category": "Videos",
+        "moved_path": "/Users/sthanna/Downloads/Videos/GMT20260310-160204_Recording_3840x2214.mp4",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/GMT20260310-160204_Recording_3840x2214.mp4",
+        "status": "moved"
+      },
+      {
+        "file_name": "rxglobal--sudhirk.sandbox.lightning.force.com_lightning_n_MappingViewer.png",
+        "original_path": "/Users/sthanna/Downloads/rxglobal--sudhirk.sandbox.lightning.force.com_lightning_n_MappingViewer.png",
+        "category": "Images",
+        "moved_path": "/Users/sthanna/Downloads/Images/rxglobal--sudhirk.sandbox.lightning.force.com_lightning_n_MappingViewer.png",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/rxglobal--sudhirk.sandbox.lightning.force.com_lightning_n_MappingViewer.png",
+        "status": "moved"
+      },
+      {
+        "file_name": "General Status Update [ongoing].pptx",
+        "original_path": "/Users/sthanna/Downloads/General Status Update [ongoing].pptx",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/General Status Update [ongoing].pptx",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/General Status Update [ongoing].pptx",
+        "status": "moved"
+      },
+      {
+        "file_name": "Massage - Jan 2026.pdf",
+        "original_path": "/Users/sthanna/Downloads/Massage - Jan 2026.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Massage - Jan 2026.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Massage - Jan 2026.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "GMT20260310-160204_Recording.m4a",
+        "original_path": "/Users/sthanna/Downloads/GMT20260310-160204_Recording.m4a",
+        "category": "Music",
+        "moved_path": "/Users/sthanna/Downloads/Music/GMT20260310-160204_Recording.m4a",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/GMT20260310-160204_Recording.m4a",
+        "status": "moved"
+      },
+      {
+        "file_name": "DE36505400280281178400_EUR_Kontoauszug_Januar_2026_Kontostand_20_956_28_EUR_20260131_84ec4.pdf",
+        "original_path": "/Users/sthanna/Downloads/DE36505400280281178400_EUR_Kontoauszug_Januar_2026_Kontostand_20_956_28_EUR_20260131_84ec4.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/DE36505400280281178400_EUR_Kontoauszug_Januar_2026_Kontostand_20_956_28_EUR_20260131_84ec4.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/DE36505400280281178400_EUR_Kontoauszug_Januar_2026_Kontostand_20_956_28_EUR_20260131_84ec4.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "EUBlueCard2026 (1).pdf",
+        "original_path": "/Users/sthanna/Downloads/EUBlueCard2026 (1).pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/EUBlueCard2026 (1).pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/EUBlueCard2026 (1).pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "illustration (15).pdf",
+        "original_path": "/Users/sthanna/Downloads/illustration (15).pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/illustration (15).pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/illustration (15).pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "apex-07LUE00000HsoSg2AJ.log",
+        "original_path": "/Users/sthanna/Downloads/apex-07LUE00000HsoSg2AJ.log",
+        "category": "Others",
+        "moved_path": "/Users/sthanna/Downloads/Others/apex-07LUE00000HsoSg2AJ.log",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/apex-07LUE00000HsoSg2AJ.log",
+        "status": "moved"
+      },
+      {
+        "file_name": "Application Form.pdf",
+        "original_path": "/Users/sthanna/Downloads/Application Form.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Application Form.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Application Form.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "illustration (16) (1).pdf",
+        "original_path": "/Users/sthanna/Downloads/illustration (16) (1).pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/illustration (16) (1).pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/illustration (16) (1).pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Sudhir payment receipt (1).pdf",
+        "original_path": "/Users/sthanna/Downloads/Sudhir payment receipt (1).pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Sudhir payment receipt (1).pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Sudhir payment receipt (1).pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "ProServ FY27 Central GTM org - as of Feb 1  2026.pptx",
+        "original_path": "/Users/sthanna/Downloads/ProServ FY27 Central GTM org - as of Feb 1  2026.pptx",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/ProServ FY27 Central GTM org - as of Feb 1  2026.pptx",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/ProServ FY27 Central GTM org - as of Feb 1  2026.pptx",
+        "status": "moved"
+      },
+      {
+        "file_name": "Notes-main.zip",
+        "original_path": "/Users/sthanna/Downloads/Notes-main.zip",
+        "category": "Archives",
+        "moved_path": "/Users/sthanna/Downloads/Archives/Notes-main.zip",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Notes-main.zip",
+        "status": "moved"
+      },
+      {
+        "file_name": "OneDrive_2026-02-05.zip",
+        "original_path": "/Users/sthanna/Downloads/OneDrive_2026-02-05.zip",
+        "category": "Archives",
+        "moved_path": "/Users/sthanna/Downloads/Archives/OneDrive_2026-02-05.zip",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/OneDrive_2026-02-05.zip",
+        "status": "moved"
+      },
+      {
+        "file_name": "wd12.myworkday.com_salesforce_d_inst_1$9925_9925$136033.htmld.png",
+        "original_path": "/Users/sthanna/Downloads/wd12.myworkday.com_salesforce_d_inst_1$9925_9925$136033.htmld.png",
+        "category": "Images",
+        "moved_path": "/Users/sthanna/Downloads/Images/wd12.myworkday.com_salesforce_d_inst_1$9925_9925$136033.htmld.png",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/wd12.myworkday.com_salesforce_d_inst_1$9925_9925$136033.htmld.png",
+        "status": "moved"
+      },
+      {
+        "file_name": "Revenue Cloud Deployment Guide (Pilot).pdf",
+        "original_path": "/Users/sthanna/Downloads/Revenue Cloud Deployment Guide (Pilot).pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Revenue Cloud Deployment Guide (Pilot).pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Revenue Cloud Deployment Guide (Pilot).pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "TOGAF\u00ae Certification -Certificate-1.pdf",
+        "original_path": "/Users/sthanna/Downloads/TOGAF\u00ae Certification -Certificate-1.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/TOGAF\u00ae Certification -Certificate-1.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/TOGAF\u00ae Certification -Certificate-1.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "P_SLP_007389_20260101_20260131_91_V2_0000_00000_FILE_00830000_Payslip-202601-11540-100P.pdf",
+        "original_path": "/Users/sthanna/Downloads/P_SLP_007389_20260101_20260131_91_V2_0000_00000_FILE_00830000_Payslip-202601-11540-100P.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/P_SLP_007389_20260101_20260131_91_V2_0000_00000_FILE_00830000_Payslip-202601-11540-100P.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/P_SLP_007389_20260101_20260131_91_V2_0000_00000_FILE_00830000_Payslip-202601-11540-100P.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Post_read__ATS_Friendly_Resume_Writing_+_Interview_Preparation_Using_AI_C6.pdf",
+        "original_path": "/Users/sthanna/Downloads/Post_read__ATS_Friendly_Resume_Writing_+_Interview_Preparation_Using_AI_C6.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Post_read__ATS_Friendly_Resume_Writing_+_Interview_Preparation_Using_AI_C6.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Post_read__ATS_Friendly_Resume_Writing_+_Interview_Preparation_Using_AI_C6.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "1773045453598.pdf",
+        "original_path": "/Users/sthanna/Downloads/1773045453598.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/1773045453598.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/1773045453598.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "YB CC Revamp ELITE+ one pager A4.pdf",
+        "original_path": "/Users/sthanna/Downloads/YB CC Revamp ELITE+ one pager A4.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/YB CC Revamp ELITE+ one pager A4.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/YB CC Revamp ELITE+ one pager A4.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "deployment-deploy-1761033168830.log",
+        "original_path": "/Users/sthanna/Downloads/deployment-deploy-1761033168830.log",
+        "category": "Others",
+        "moved_path": "/Users/sthanna/Downloads/Others/deployment-deploy-1761033168830.log",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/deployment-deploy-1761033168830.log",
+        "status": "moved"
+      },
+      {
+        "file_name": "EPGC-in-Product-Management-Brochure (9) (1).pdf",
+        "original_path": "/Users/sthanna/Downloads/EPGC-in-Product-Management-Brochure (9) (1).pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/EPGC-in-Product-Management-Brochure (9) (1).pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/EPGC-in-Product-Management-Brochure (9) (1).pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "BI-2483WDCX.pdf",
+        "original_path": "/Users/sthanna/Downloads/BI-2483WDCX.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/BI-2483WDCX.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/BI-2483WDCX.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "1762274477456.pdf",
+        "original_path": "/Users/sthanna/Downloads/1762274477456.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/1762274477456.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/1762274477456.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Simpliaxis-Invoice-Sudhir Kumar Thanna-qqH1tRADZrvuTQKF_pH9A5Y4dKYyW0cP.pdf",
+        "original_path": "/Users/sthanna/Downloads/Simpliaxis-Invoice-Sudhir Kumar Thanna-qqH1tRADZrvuTQKF_pH9A5Y4dKYyW0cP.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Simpliaxis-Invoice-Sudhir Kumar Thanna-qqH1tRADZrvuTQKF_pH9A5Y4dKYyW0cP.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Simpliaxis-Invoice-Sudhir Kumar Thanna-qqH1tRADZrvuTQKF_pH9A5Y4dKYyW0cP.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "FY27 V2MOM Working Document.docx",
+        "original_path": "/Users/sthanna/Downloads/FY27 V2MOM Working Document.docx",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/FY27 V2MOM Working Document.docx",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/FY27 V2MOM Working Document.docx",
+        "status": "moved"
+      },
+      {
+        "file_name": "Xtrafit - 01.01.2026.pdf",
+        "original_path": "/Users/sthanna/Downloads/Xtrafit - 01.01.2026.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Xtrafit - 01.01.2026.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Xtrafit - 01.01.2026.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Salesforce.com Mail - German A1 Course Approval.pdf",
+        "original_path": "/Users/sthanna/Downloads/Salesforce.com Mail - German A1 Course Approval.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Salesforce.com Mail - German A1 Course Approval.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Salesforce.com Mail - German A1 Course Approval.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Claude.dmg",
+        "original_path": "/Users/sthanna/Downloads/Claude.dmg",
+        "category": "Others",
+        "moved_path": "/Users/sthanna/Downloads/Others/Claude.dmg",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Claude.dmg",
+        "status": "moved"
+      },
+      {
+        "file_name": "TargobankAntrag.pdf",
+        "original_path": "/Users/sthanna/Downloads/TargobankAntrag.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/TargobankAntrag.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/TargobankAntrag.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "AccountStatement_01-DEC-2025_to_18-FEB-2026-unlocked.pdf",
+        "original_path": "/Users/sthanna/Downloads/AccountStatement_01-DEC-2025_to_18-FEB-2026-unlocked.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/AccountStatement_01-DEC-2025_to_18-FEB-2026-unlocked.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/AccountStatement_01-DEC-2025_to_18-FEB-2026-unlocked.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Massage-6.12.2025.pdf",
+        "original_path": "/Users/sthanna/Downloads/Massage-6.12.2025.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Massage-6.12.2025.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Massage-6.12.2025.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Heroku Vibes Internal FAQ.pdf",
+        "original_path": "/Users/sthanna/Downloads/Heroku Vibes Internal FAQ.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Heroku Vibes Internal FAQ.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Heroku Vibes Internal FAQ.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "A digital rental pos.png",
+        "original_path": "/Users/sthanna/Downloads/A digital rental pos.png",
+        "category": "Images",
+        "moved_path": "/Users/sthanna/Downloads/Images/A digital rental pos.png",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/A digital rental pos.png",
+        "status": "moved"
+      },
+      {
+        "file_name": "Cert6945921_RevenueCloudConsultant_20251107.pdf",
+        "original_path": "/Users/sthanna/Downloads/Cert6945921_RevenueCloudConsultant_20251107.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Cert6945921_RevenueCloudConsultant_20251107.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Cert6945921_RevenueCloudConsultant_20251107.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Heroku Vibes-20251203T150715Z-1-001.zip",
+        "original_path": "/Users/sthanna/Downloads/Heroku Vibes-20251203T150715Z-1-001.zip",
+        "category": "Archives",
+        "moved_path": "/Users/sthanna/Downloads/Archives/Heroku Vibes-20251203T150715Z-1-001.zip",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Heroku Vibes-20251203T150715Z-1-001.zip",
+        "status": "moved"
+      },
+      {
+        "file_name": "Advanced Certification in Generative AI & Agentic AI.pdf",
+        "original_path": "/Users/sthanna/Downloads/Advanced Certification in Generative AI & Agentic AI.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Advanced Certification in Generative AI & Agentic AI.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Advanced Certification in Generative AI & Agentic AI.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Custom202420260205-29-nxyamq.pdf",
+        "original_path": "/Users/sthanna/Downloads/Custom202420260205-29-nxyamq.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Custom202420260205-29-nxyamq.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Custom202420260205-29-nxyamq.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "comet_latest.dmg",
+        "original_path": "/Users/sthanna/Downloads/comet_latest.dmg",
+        "category": "Others",
+        "moved_path": "/Users/sthanna/Downloads/Others/comet_latest.dmg",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/comet_latest.dmg",
+        "status": "moved"
+      },
+      {
+        "file_name": "Antigravity.dmg",
+        "original_path": "/Users/sthanna/Downloads/Antigravity.dmg",
+        "category": "Others",
+        "moved_path": "/Users/sthanna/Downloads/Others/Antigravity.dmg",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Antigravity.dmg",
+        "status": "moved"
+      },
+      {
+        "file_name": "Application Report - 8725269.pdf",
+        "original_path": "/Users/sthanna/Downloads/Application Report - 8725269.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Application Report - 8725269.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Application Report - 8725269.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Sudhir_CV_9June2025_DE.docx",
+        "original_path": "/Users/sthanna/Downloads/Sudhir_CV_9June2025_DE.docx",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Sudhir_CV_9June2025_DE.docx",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Sudhir_CV_9June2025_DE.docx",
+        "status": "moved"
+      },
+      {
+        "file_name": "Application Drafting-20251218T102711Z-3-001.zip",
+        "original_path": "/Users/sthanna/Downloads/Application Drafting-20251218T102711Z-3-001.zip",
+        "category": "Archives",
+        "moved_path": "/Users/sthanna/Downloads/Archives/Application Drafting-20251218T102711Z-3-001.zip",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Application Drafting-20251218T102711Z-3-001.zip",
+        "status": "moved"
+      },
+      {
+        "file_name": "Application Report - 8725269 (1).pdf",
+        "original_path": "/Users/sthanna/Downloads/Application Report - 8725269 (1).pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Application Report - 8725269 (1).pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Application Report - 8725269 (1).pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Cursor AI for Salesforce - Hands-On Prompts Guide.docx",
+        "original_path": "/Users/sthanna/Downloads/Cursor AI for Salesforce - Hands-On Prompts Guide.docx",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Cursor AI for Salesforce - Hands-On Prompts Guide.docx",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Cursor AI for Salesforce - Hands-On Prompts Guide.docx",
+        "status": "moved"
+      },
+      {
+        "file_name": "Sudhir_CV_21Feb2026_DE.docx.pdf",
+        "original_path": "/Users/sthanna/Downloads/Sudhir_CV_21Feb2026_DE.docx.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Sudhir_CV_21Feb2026_DE.docx.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Sudhir_CV_21Feb2026_DE.docx.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Sudhir Kumar Thanna-ScrumAlliance_CSPO_Certificate.pdf",
+        "original_path": "/Users/sthanna/Downloads/Sudhir Kumar Thanna-ScrumAlliance_CSPO_Certificate.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Sudhir Kumar Thanna-ScrumAlliance_CSPO_Certificate.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Sudhir Kumar Thanna-ScrumAlliance_CSPO_Certificate.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "make a question with bier in german.pdf",
+        "original_path": "/Users/sthanna/Downloads/make a question with bier in german.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/make a question with bier in german.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/make a question with bier in german.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "1763940069032.pdf",
+        "original_path": "/Users/sthanna/Downloads/1763940069032.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/1763940069032.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/1763940069032.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Apple Support Case 102752945432 5_12_2025_5_04pm.pdf",
+        "original_path": "/Users/sthanna/Downloads/Apple Support Case 102752945432 5_12_2025_5_04pm.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Apple Support Case 102752945432 5_12_2025_5_04pm.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Apple Support Case 102752945432 5_12_2025_5_04pm.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Massage-18.10.2025.pdf",
+        "original_path": "/Users/sthanna/Downloads/Massage-18.10.2025.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Massage-18.10.2025.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Massage-18.10.2025.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Score Report TOGAF PARt 2.pdf",
+        "original_path": "/Users/sthanna/Downloads/Score Report TOGAF PARt 2.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Score Report TOGAF PARt 2.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Score Report TOGAF PARt 2.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "salesforce-google-drive-library-production.zip",
+        "original_path": "/Users/sthanna/Downloads/salesforce-google-drive-library-production.zip",
+        "category": "Archives",
+        "moved_path": "/Users/sthanna/Downloads/Archives/salesforce-google-drive-library-production.zip",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/salesforce-google-drive-library-production.zip",
+        "status": "moved"
+      },
+      {
+        "file_name": "Salesforce.com Mail - Course TOGAF Foundation and Practitioner - Approval.pdf",
+        "original_path": "/Users/sthanna/Downloads/Salesforce.com Mail - Course TOGAF Foundation and Practitioner - Approval.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Salesforce.com Mail - Course TOGAF Foundation and Practitioner - Approval.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Salesforce.com Mail - Course TOGAF Foundation and Practitioner - Approval.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Spring'26 (260) - NZC Technical Enablement  .pptx",
+        "original_path": "/Users/sthanna/Downloads/Spring'26 (260) - NZC Technical Enablement  .pptx",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Spring'26 (260) - NZC Technical Enablement  .pptx",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Spring'26 (260) - NZC Technical Enablement  .pptx",
+        "status": "moved"
+      },
+      {
+        "file_name": "illustration (14).pdf",
+        "original_path": "/Users/sthanna/Downloads/illustration (14).pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/illustration (14).pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/illustration (14).pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "EPGC-in-Product-Management-Brochure (9).pdf",
+        "original_path": "/Users/sthanna/Downloads/EPGC-in-Product-Management-Brochure (9).pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/EPGC-in-Product-Management-Brochure (9).pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/EPGC-in-Product-Management-Brochure (9).pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Screenshot 2026-03-02 at 12.59.46.png",
+        "original_path": "/Users/sthanna/Downloads/Screenshot 2026-03-02 at 12.59.46.png",
+        "category": "Images",
+        "moved_path": "/Users/sthanna/Downloads/Images/Screenshot 2026-03-02 at 12.59.46.png",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Screenshot 2026-03-02 at 12.59.46.png",
+        "status": "moved"
+      },
+      {
+        "file_name": "Brochure.pdf",
+        "original_path": "/Users/sthanna/Downloads/Brochure.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Brochure.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Brochure.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "1643797028777.jpeg",
+        "original_path": "/Users/sthanna/Downloads/1643797028777.jpeg",
+        "category": "Images",
+        "moved_path": "/Users/sthanna/Downloads/Images/1643797028777.jpeg",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/1643797028777.jpeg",
+        "status": "moved"
+      },
+      {
+        "file_name": "WhatsApp Image 2025-12-18 at 3.27.08 PM.jpeg",
+        "original_path": "/Users/sthanna/Downloads/WhatsApp Image 2025-12-18 at 3.27.08 PM.jpeg",
+        "category": "Images",
+        "moved_path": "/Users/sthanna/Downloads/Images/WhatsApp Image 2025-12-18 at 3.27.08 PM.jpeg",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/WhatsApp Image 2025-12-18 at 3.27.08 PM.jpeg",
+        "status": "moved"
+      },
+      {
+        "file_name": "Claude Code in the SDLC - Salesforce (Shared Version).pdf",
+        "original_path": "/Users/sthanna/Downloads/Claude Code in the SDLC - Salesforce (Shared Version).pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Claude Code in the SDLC - Salesforce (Shared Version).pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Claude Code in the SDLC - Salesforce (Shared Version).pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "apex-07LUE00000F214D2AR.log",
+        "original_path": "/Users/sthanna/Downloads/apex-07LUE00000F214D2AR.log",
+        "category": "Others",
+        "moved_path": "/Users/sthanna/Downloads/Others/apex-07LUE00000F214D2AR.log",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/apex-07LUE00000F214D2AR.log",
+        "status": "moved"
+      },
+      {
+        "file_name": "#1 - WorkWise Gemini Slides.mp4",
+        "original_path": "/Users/sthanna/Downloads/#1 - WorkWise Gemini Slides.mp4",
+        "category": "Videos",
+        "moved_path": "/Users/sthanna/Downloads/Videos/#1 - WorkWise Gemini Slides.mp4",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/#1 - WorkWise Gemini Slides.mp4",
+        "status": "moved"
+      },
+      {
+        "file_name": "rarmacos-x64-720.tar.gz",
+        "original_path": "/Users/sthanna/Downloads/rarmacos-x64-720.tar.gz",
+        "category": "Archives",
+        "moved_path": "/Users/sthanna/Downloads/Archives/rarmacos-x64-720.tar.gz",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/rarmacos-x64-720.tar.gz",
+        "status": "moved"
+      },
+      {
+        "file_name": "Sukruta Deshpande Bio.pptx",
+        "original_path": "/Users/sthanna/Downloads/Sukruta Deshpande Bio.pptx",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Sukruta Deshpande Bio.pptx",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Sukruta Deshpande Bio.pptx",
+        "status": "moved"
+      },
+      {
+        "file_name": "P_SLP_007389_20251201_20251231_91_V2_0000_00000_FILE_00830000_Payslip-202512-11540-100P.pdf",
+        "original_path": "/Users/sthanna/Downloads/P_SLP_007389_20251201_20251231_91_V2_0000_00000_FILE_00830000_Payslip-202512-11540-100P.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/P_SLP_007389_20251201_20251231_91_V2_0000_00000_FILE_00830000_Payslip-202512-11540-100P.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/P_SLP_007389_20251201_20251231_91_V2_0000_00000_FILE_00830000_Payslip-202512-11540-100P.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "AccountStatement_01-DEC-2025_to_18-FEB-2026.pdf",
+        "original_path": "/Users/sthanna/Downloads/AccountStatement_01-DEC-2025_to_18-FEB-2026.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/AccountStatement_01-DEC-2025_to_18-FEB-2026.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/AccountStatement_01-DEC-2025_to_18-FEB-2026.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "FY26 FSC Commercial Banking Main FCD + Features.pdf",
+        "original_path": "/Users/sthanna/Downloads/FY26 FSC Commercial Banking Main FCD + Features.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/FY26 FSC Commercial Banking Main FCD + Features.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/FY26 FSC Commercial Banking Main FCD + Features.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "Screenshot 2025-09-19 at 14.48.36.png",
+        "original_path": "/Users/sthanna/Downloads/Screenshot 2025-09-19 at 14.48.36.png",
+        "category": "Images",
+        "moved_path": "/Users/sthanna/Downloads/Images/Screenshot 2025-09-19 at 14.48.36.png",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Screenshot 2025-09-19 at 14.48.36.png",
+        "status": "moved"
+      },
+      {
+        "file_name": "Advanced Configurator Hands on - March 26.pdf",
+        "original_path": "/Users/sthanna/Downloads/Advanced Configurator Hands on - March 26.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/Advanced Configurator Hands on - March 26.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/Advanced Configurator Hands on - March 26.pdf",
+        "status": "moved"
+      },
+      {
+        "file_name": "2025.11.06_Rechnung_Kundennr_423486001.pdf",
+        "original_path": "/Users/sthanna/Downloads/2025.11.06_Rechnung_Kundennr_423486001.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/Documents/2025.11.06_Rechnung_Kundennr_423486001.pdf",
+        "backup_path": "/Users/sthanna/Downloads/.organizer_data/backups/20260401_131720/2025.11.06_Rechnung_Kundennr_423486001.pdf",
+        "status": "moved"
+      }
+    ]
+  },
+  {
+    "run_id": "20260401_132008",
+    "started_at": "2026-04-01T13:20:08",
+    "downloads_path": "/Users/sthanna/Downloads/VSCode-NewMac/MacOsOrganizerScript/sample_test_downloads",
+    "backup_directory": "/Users/sthanna/Downloads/VSCode-NewMac/MacOsOrganizerScript/downloads_backup_data/.organizer_data/backups/20260401_132008",
+    "log_file": "/Users/sthanna/Downloads/VSCode-NewMac/MacOsOrganizerScript/downloads_backup_data/.organizer_data/organize_log.txt",
+    "backup_enabled": true,
+    "dry_run": true,
+    "records": [
+      {
+        "file_name": "notes.xyz",
+        "original_path": "/Users/sthanna/Downloads/VSCode-NewMac/MacOsOrganizerScript/sample_test_downloads/notes.xyz",
+        "category": "Others",
+        "moved_path": "/Users/sthanna/Downloads/VSCode-NewMac/MacOsOrganizerScript/sample_test_downloads/Others/notes.xyz",
+        "backup_path": "/Users/sthanna/Downloads/VSCode-NewMac/MacOsOrganizerScript/downloads_backup_data/.organizer_data/backups/20260401_132008/notes.xyz",
+        "status": "would_move"
+      },
+      {
+        "file_name": "archive.zip",
+        "original_path": "/Users/sthanna/Downloads/VSCode-NewMac/MacOsOrganizerScript/sample_test_downloads/archive.zip",
+        "category": "Archives",
+        "moved_path": "/Users/sthanna/Downloads/VSCode-NewMac/MacOsOrganizerScript/sample_test_downloads/Archives/archive.zip",
+        "backup_path": "/Users/sthanna/Downloads/VSCode-NewMac/MacOsOrganizerScript/downloads_backup_data/.organizer_data/backups/20260401_132008/archive.zip",
+        "status": "would_move"
+      },
+      {
+        "file_name": "report.pdf",
+        "original_path": "/Users/sthanna/Downloads/VSCode-NewMac/MacOsOrganizerScript/sample_test_downloads/report.pdf",
+        "category": "Documents",
+        "moved_path": "/Users/sthanna/Downloads/VSCode-NewMac/MacOsOrganizerScript/sample_test_downloads/Documents/report.pdf",
+        "backup_path": "/Users/sthanna/Downloads/VSCode-NewMac/MacOsOrganizerScript/downloads_backup_data/.organizer_data/backups/20260401_132008/report.pdf",
+        "status": "would_move"
+      },
+      {
+        "file_name": "photo1.jpg",
+        "original_path": "/Users/sthanna/Downloads/VSCode-NewMac/MacOsOrganizerScript/sample_test_downloads/photo1.jpg",
+        "category": "Images",
+        "moved_path": "/Users/sthanna/Downloads/VSCode-NewMac/MacOsOrganizerScript/sample_test_downloads/Images/photo1.jpg",
+        "backup_path": "/Users/sthanna/Downloads/VSCode-NewMac/MacOsOrganizerScript/downloads_backup_data/.organizer_data/backups/20260401_132008/photo1.jpg",
+        "status": "would_move"
+      },
+      {
+        "file_name": "song.mp3",
+        "original_path": "/Users/sthanna/Downloads/VSCode-NewMac/MacOsOrganizerScript/sample_test_downloads/song.mp3",
+        "category": "Music",
+        "moved_path": "/Users/sthanna/Downloads/VSCode-NewMac/MacOsOrganizerScript/sample_test_downloads/Music/song.mp3",
+        "backup_path": "/Users/sthanna/Downloads/VSCode-NewMac/MacOsOrganizerScript/downloads_backup_data/.organizer_data/backups/20260401_132008/song.mp3",
+        "status": "would_move"
+      }
+    ]
+  }
+]
