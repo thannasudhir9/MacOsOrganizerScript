@@ -1,7 +1,9 @@
 # MacOS Downloads Folder Organizer
-Date : 10 June 2025
 
-A bash script that automatically organizes files in your macOS Downloads folder by categorizing them into appropriate directories based on their file types.
+**Created:** 10 June 2025
+**Last Updated:** 1 April 2026
+
+A cross-platform script that automatically organizes files in your Downloads folder by categorizing them into appropriate directories based on their file types.
 
 ## Features
 
@@ -83,7 +85,12 @@ From the web app you can:
 - Preview dry run
 - Run without backup
 - Undo last run
-- View recent runs and latest file-level statuses
+- Select any previous run and inspect file-level details
+- View color-coded category badges and status pills
+
+#### Dashboard Screenshot (1 April 2026)
+
+![Downloads Organizer Dashboard](screenshots/dashboard_full.png)
 
 ### Backup + History Storage
 
@@ -184,3 +191,29 @@ Command to Run in Windows to Organize files in Downloads Folder
 ```bash
 python organize_downloadsv3.py
 ```
+
+---
+
+## Future Scope
+
+- **Real-time file watcher** -- Use OS-level file system events (e.g. `watchdog` on Python) to organize files the moment they land in Downloads, instead of polling on a schedule.
+- **Duplicate file detection** -- Hash-based detection to identify and flag duplicate files across category folders before moving.
+- **Cloud backup integration** -- Optionally sync backup copies to Google Drive, iCloud, or S3 for off-device safety.
+- **Custom rules engine** -- Let users define rules beyond file extension (e.g. move files containing "invoice" in the name to a `Finance` folder).
+- **Multi-folder support** -- Organize multiple source folders (Desktop, Documents, etc.) from a single dashboard.
+- **Email/notification alerts** -- Send a summary email or macOS notification after each scheduled run.
+- **User authentication** -- Add basic auth to the web dashboard so it can be safely exposed on a local network.
+- **REST API** -- Expose organizer actions as API endpoints for integration with Shortcuts, Automator, or third-party tools.
+- **Statistics and charts** -- Add visual charts (files by category, moves over time) to the web dashboard.
+- **Mobile-friendly UI** -- Make the web dashboard fully responsive for tablet/phone access.
+
+## Areas of Improvement
+
+- **Error recovery** -- Improve handling when a file is locked or in use during move (retry with backoff).
+- **Large file performance** -- Stream-copy large files instead of loading into memory during backup.
+- **Undo granularity** -- Support undoing individual file moves, not just the entire last run.
+- **Run history cleanup** -- Add automatic pruning of old run records and backup folders to save disk space.
+- **Test coverage** -- Add unit tests for core organizer functions (`get_category`, `organize_downloads`, `undo_last_move`).
+- **Configuration file** -- Move category mappings and settings to an external `config.json` so users don't need to edit Python code.
+- **Logging levels** -- Add `--verbose` / `--quiet` flags for controlling log output detail.
+- **Cross-platform testing** -- Validate and fix edge cases on Windows and Linux (path separators, permissions).
