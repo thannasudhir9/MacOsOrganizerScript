@@ -1,0 +1,18 @@
+downloads_backup_data/
+
+# Python cache/compiled files
+__pycache__/
+.pycache/
+*.py[cod]
+
+# Local environment and tooling
+.venv/
+venv/
+.env
+.sfdx/
+
+# OS/editor files
+.DS_Store
+
+# Local test artifacts
+sample_test_downloads/

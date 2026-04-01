@@ -28,6 +28,78 @@ A bash script that automatically organizes files in your macOS Downloads folder 
 chmod +x organizeFilesInMacOsV3.sh
 ```
 
+## Python Organizer (Recommended)
+
+Use `organize_downloadsv3.py` for a better user interface and safer file handling.
+
+### Highlights
+
+- Interactive menu mode for non-technical users
+- Optional command-line mode for automation
+- Backup strategy before move (per-run backup folder)
+- Full run history with original path, moved path, backup path, and status
+- Undo support for the most recent run
+
+### Run Commands
+
+```bash
+python3 organize_downloadsv3.py --menu
+```
+
+```bash
+python3 organize_downloadsv3.py --run
+```
+
+```bash
+python3 organize_downloadsv3.py --run --dry-run
+```
+
+```bash
+python3 organize_downloadsv3.py --undo
+```
+
+```bash
+python3 organize_downloadsv3.py --status
+```
+
+```bash
+python3 organize_downloadsv3.py --schedule 60
+```
+
+### Web App UI
+
+Start the dashboard:
+
+```bash
+python3 web_ui.py
+```
+
+Open in browser:
+
+`http://127.0.0.1:8080`
+
+From the web app you can:
+- Run organizer with backup
+- Preview dry run
+- Run without backup
+- Undo last run
+- View recent runs and latest file-level statuses
+
+### Backup + History Storage
+
+Runtime data is stored in:
+
+- `downloads_backup_data/.organizer_data/organize_log.txt`
+- `downloads_backup_data/.organizer_data/runs_history.json`
+- `downloads_backup_data/.organizer_data/backups/<run_id>/`
+
+Each record in `runs_history.json` stores:
+
+- Original file path
+- New moved file path
+- Backup file path (if backup enabled)
+- Status (`moved`, `skipped_destination_exists`, `error`, `undone`)
+
 
 ## Usage For Windows
 
